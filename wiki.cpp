@@ -1,3 +1,4 @@
+#include <iostream>
 #include <regex>
 
 #include "crow_all.h"
@@ -40,7 +41,7 @@ string wikify(string raw_text, string wikiword) {
     return boost::replace_all_copy(WIKI_HEADER, "$1", wikiword) + wiki_text + WIKI_FOOTER;
 }
 
-const string EDIT_HEADER = "<html><head></head><body>Edit page Markdown<form action=\"/save/$1\" method=\"post\"><textarea name=\"text\" rows=\"25\" cols=\"80\" placeholder=\"This page is empty.\">";
+const string EDIT_HEADER = "<html><head></head><body>Edit page <a href=\"https://github.com/progsource/maddy/blob/master/docs/definitions.md\">Markdown</a><form action=\"/save/$1\" method=\"post\"><textarea name=\"text\" rows=\"25\" cols=\"80\" placeholder=\"This page is empty.\">";
 const string EDIT_FOOTER = "</textarea><br><input type=\"submit\" value=\"Save Page\"></form></body></html>\n";
 
 // turn html characters into entities, add edit page header/footer
