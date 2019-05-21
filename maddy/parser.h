@@ -129,7 +129,7 @@ private:
 
     // Attention! StrongParser has to be before EmphasizedParser
     this->strongParser->Parse(line);
-    this->emphasizedParser->Parse(line);
+    //this->emphasizedParser->Parse(line);
 
     this->strikeThroughParser->Parse(line);
 
