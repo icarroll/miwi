@@ -27,22 +27,35 @@ void writefile(string filename, string text) {
     outfile.close();
 }
 
-const string WIKI_HEADER = "<html><head></head><body><form method=\"get\" action=\"/edit/$1\"><button type=\"submit\">Edit Page</button></form>\n";
-const string WIKI_FOOTER = "\n</body></html>\n";
+string space_wikiword(string wikiword) {
+    regex space_pat("([A-Za-z])([A-Z])(?=[a-z])");
+    string spaced_fmt = "$1 $2";
+    return regex_replace(wikiword, space_pat, spaced_fmt);
+}
+
+const string WIKI_HEADER = readfile("wiki_header.html");
+const string WIKI_FOOTER = readfile("wiki_footer.html");
 
 // turn WikiWords into links, and add html header/footer
 string wikify(string raw_text, string wikiword) {
     stringstream raw_text_stream(raw_text);
     Parser markdown = Parser();
     string html_text = markdown.Parse(raw_text_stream);
+
     regex wikiword_pat("([A-Z][a-z]+[A-Z][a-z]+[A-Za-z]*)");
     string url_fmt = "<a href=\"/wiki/$1\">$1</a>";
     string wiki_text = regex_replace(html_text, wikiword_pat, url_fmt);
-    return boost::replace_all_copy(WIKI_HEADER, "$1", wikiword) + wiki_text + WIKI_FOOTER;
+
+    string spaced_wikiword = space_wikiword(wikiword);
+
+    string header = boost::replace_all_copy(WIKI_HEADER, "$wikiword", wikiword);
+    boost::replace_all(header, "$spaced_wikiword", spaced_wikiword);
+
+    return header + wiki_text + WIKI_FOOTER;
 }
 
-const string EDIT_HEADER = "<html><head></head><body>Edit page <a href=\"https://github.com/progsource/maddy/blob/master/docs/definitions.md\">Markdown</a><form action=\"/save/$1\" method=\"post\"><textarea autofocus name=\"text\" rows=\"25\" cols=\"80\" placeholder=\"This page is empty.\">";
-const string EDIT_FOOTER = "</textarea><br><input type=\"submit\" value=\"Save Page\"></form></body></html>\n";
+const string EDIT_HEADER = readfile("edit_header.html");
+const string EDIT_FOOTER = readfile("edit_footer.html");
 
 // turn html characters into entities, add edit page header/footer
 string editify(string raw_text, string wikiword) {
@@ -50,8 +63,13 @@ string editify(string raw_text, string wikiword) {
     boost::replace_all(edit_text, "&", "&amp;");
     boost::replace_all(edit_text, "<", "&lt;");
     boost::replace_all(edit_text, ">", "&gt;");
-    return boost::replace_all_copy(EDIT_HEADER, "$1", wikiword)
-           + edit_text + EDIT_FOOTER;
+
+    string spaced_wikiword = space_wikiword(wikiword);
+
+    string header = boost::replace_all_copy(EDIT_HEADER, "$wikiword", wikiword);
+    boost::replace_all(header, "$spaced_wikiword", spaced_wikiword);
+
+    return header + edit_text + EDIT_FOOTER;
 }
 
 string postdecode(string raw_text) {
