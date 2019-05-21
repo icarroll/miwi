@@ -1,0 +1,1 @@
+*/5 * * * * (cd /u/icarroll/projects/miwi ; if [ ! -z "$(git status --porcelain pages)" ] ; then git add pages ; git commit -m "content update" ; fi)
