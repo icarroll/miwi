@@ -38,6 +38,10 @@ const string WIKI_FOOTER = readfile("wiki_footer.html");
 
 // turn WikiWords into links, and add html header/footer
 string wikify(string raw_text, string wikiword) {
+    boost::replace_all(raw_text, "&", "&amp;");
+    boost::replace_all(raw_text, "<", "&lt;");
+    boost::replace_all(raw_text, ">", "&gt;");
+
     stringstream raw_text_stream(raw_text);
     Parser markdown = Parser();
     string html_text = markdown.Parse(raw_text_stream);
