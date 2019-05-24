@@ -1,3 +1,27 @@
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is an easy-to-read and easy-to-write document format.
 
 This wiki uses [maddy](https://github.com/progsource/maddy/blob/master/docs/definitions.md) for Markdown formatting.
+
+#### Bulleted list
+
+```
+* An item
+* Another item
+* Yet another item
+```
+
+* An item
+* Another item
+* Yet another item
+
+#### Numbered list
+
+```
+1. An item
+* Another item
+* Yet another item
+```
+
+1. An item
+* Another item
+* Yet another item
