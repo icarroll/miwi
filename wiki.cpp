@@ -33,8 +33,8 @@ string space_wikiword(string wikiword) {
     return regex_replace(wikiword, space_pat, spaced_fmt);
 }
 
-const string WIKI_HEADER = readfile("wiki_header.html");
-const string WIKI_FOOTER = readfile("wiki_footer.html");
+// const string WIKI_HEADER = readfile("wiki_header.html");
+// const string WIKI_FOOTER = readfile("wiki_footer.html");
 
 // turn WikiWords into links, and add html header/footer
 string wikify(string raw_text, string wikiword) {
@@ -52,14 +52,19 @@ string wikify(string raw_text, string wikiword) {
 
     string spaced_wikiword = space_wikiword(wikiword);
 
-    string header = boost::replace_all_copy(WIKI_HEADER, "$wikiword", wikiword);
-    boost::replace_all(header, "$spaced_wikiword", spaced_wikiword);
+    // string header = boost::replace_all_copy(WIKI_HEADER, "$wikiword", wikiword);
+    // boost::replace_all(header, "$spaced_wikiword", spaced_wikiword);
 
-    return header + wiki_text + WIKI_FOOTER;
+    // return header + wiki_text + WIKI_FOOTER;
+    crow::mustache::context ctx;
+    ctx["wikiword"] = wikiword;
+    ctx["spaced_wikiword"] = spaced_wikiword;
+    ctx["text"] = wiki_text;
+    return crow::mustache::load("wiki.html").render(ctx);
 }
 
-const string EDIT_HEADER = readfile("edit_header.html");
-const string EDIT_FOOTER = readfile("edit_footer.html");
+// const string EDIT_HEADER = readfile("edit_header.html");
+// const string EDIT_FOOTER = readfile("edit_footer.html");
 
 // turn html characters into entities, add edit page header/footer
 string editify(string raw_text, string wikiword) {
@@ -70,10 +75,15 @@ string editify(string raw_text, string wikiword) {
 
     string spaced_wikiword = space_wikiword(wikiword);
 
-    string header = boost::replace_all_copy(EDIT_HEADER, "$wikiword", wikiword);
-    boost::replace_all(header, "$spaced_wikiword", spaced_wikiword);
+    // string header = boost::replace_all_copy(EDIT_HEADER, "$wikiword", wikiword);
+    // boost::replace_all(header, "$spaced_wikiword", spaced_wikiword);
 
-    return header + edit_text + EDIT_FOOTER;
+    // return header + edit_text + EDIT_FOOTER;
+    crow::mustache::context ctx;
+    ctx["wikiword"] = wikiword;
+    ctx["spaced_wikiword"] = spaced_wikiword;
+    ctx["text"] = edit_text;
+    return crow::mustache::load("edit.html").render(ctx);
 }
 
 string postdecode(string raw_text) {
@@ -84,6 +94,7 @@ string postdecode(string raw_text) {
 int main()
 {
     crow::SimpleApp app;
+    crow::mustache::set_base("templates");
 
     CROW_ROUTE(app, "/")([](){
         crow::response resp;
