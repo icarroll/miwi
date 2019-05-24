@@ -2,8 +2,27 @@
 
 This wiki uses [maddy](https://github.com/progsource/maddy/blob/master/docs/definitions.md) for Markdown formatting.
 
+---
+
+#### Bold
+```
+**Strongly worded text**
+```
+
+**Strongly worded text**
+
+---
+
+#### Italic
+```
+*Strongly worded text*
+```
+
+*Strongly worded text*
+
+---
+
 #### Bulleted list
-
 ```
 * An item
 * Another item
@@ -13,9 +32,10 @@ This wiki uses [maddy](https://github.com/progsource/maddy/blob/master/docs/defi
 * An item
 * Another item
 * Yet another item
+
+---
 
 #### Numbered list
-
 ```
 1. An item
 * Another item
@@ -25,3 +45,5 @@ This wiki uses [maddy](https://github.com/progsource/maddy/blob/master/docs/defi
 1. An item
 * Another item
 * Yet another item
+
+
