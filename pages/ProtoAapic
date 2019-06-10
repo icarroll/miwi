@@ -8,7 +8,7 @@ root | part of speech | gloss
 a:bi | root | hear, sound
 a:pa | root | speak, speech
 ap:ita | root | see, eye
-k:a | root | do, action
+ak:a | root | do, action
 k:agh | root | break, rubbish
 gi:ta | root | help, hand
 pa:ta | root | write, symbol
@@ -26,7 +26,7 @@ ti:pakh | root | overpower, strength
 - | - | -
 1st | aa | a | - | -
 2nd | ii | i | abi | -
-3rd | oo | o | ka | tikh
+3rd | oo | o | aka | tikh
 |/table
 
 ---
@@ -35,14 +35,17 @@ ti:pakh | root | overpower, strength
 
 |table
 kagh | none | "broken"
-ipi | one | 
-ibi | two | 
+ipi | one | "self"
+ibbi | two | "self and self"
 ipibi | three | "one and two"
 gita | 4-5 | "hand"
 gitabi | 6-8 | "hand and two"
 ibgita | 9-12 | "two hand"
-gitata | many | "hand hand"
+gitata | many | "hand and hand"
 |/table
+
+
+
 
 
 
