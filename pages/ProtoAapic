@@ -34,15 +34,16 @@ ti:pakh | root | overpower, strength
 ## Amounts
 
 |table
-kagh | none
-ipi | one
-ibi | two
-ipibi | three
-gita | 4-5
-gitabi | 6-8
-ibgita | 9-12
-gitata | many
+kagh | none | "broken"
+ipi | one | 
+ibi | two | 
+ipibi | three | "one and two"
+gita | 4-5 | "hand"
+gitabi | 6-8 | "hand and two"
+ibgita | 9-12 | "two hand"
+gitata | many | "hand hand"
 |/table
+
 
 
 
