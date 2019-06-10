@@ -5,14 +5,16 @@ AapicPhonotactics
 |table
 root | part of speech | gloss
 - | - | -
-a:pa | root | speak, speech
-pi:to | root | wash, water
 a:bi | root | hear, sound
+a:pa | root | speak, speech
+ap:ita | root | see, eye
 k:a | root | do, action
-ti:pakh | root | overpower, strength
 k:agh | root | break, rubbish
-t:ikh | root | die, dead thing
+gi:ta | root | help, hand
 pa:ta | root | write, symbol
+pi:to | root | wash, water
+t:ikh | root | die, dead thing
+ti:pakh | root | overpower, strength
 |/table
 
 ---
@@ -25,6 +27,21 @@ pa:ta | root | write, symbol
 1st | aa | a | - | -
 2nd | ii | i | abi | -
 3rd | oo | o | ka | tikh
+|/table
+
+---
+
+## Amounts
+
+|table
+kagh | none
+ipi | one
+ibi | two
+ipibi | three
+gita | 4-5
+gitabi | 6-8
+ibgita | 9-12
+gitata | many
 |/table
 
 
