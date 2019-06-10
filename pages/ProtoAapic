@@ -1,5 +1,7 @@
 AapicPhonotactics
 
+## Roots
+
 |table
 root | part of speech | gloss
 - | - | -
@@ -13,4 +15,15 @@ t:ikh | root | die, corpse
 pa:ta | root | write, symbol
 |/table
 
+---
+
+## Pronouns
+
+|table
+ | mother | human | animal | inanimate
+- | - | -
+1st | X | X | - | -
+2nd | X | X | X | ?
+3rd | X | X | X | X
+|/table
 
