@@ -9,9 +9,13 @@ a:bi | root | hear, sound
 a:pa | root | speak, speech
 ap:ita | root | see, eye
 ak:a | root | do, action
+b:ik | root | stay, residence
+d:ap | root | cause, reason
 k:agh | root | break, rubbish
 gi:ta | root | help, hand
+i:ki | root | shrink, small
 pa:ta | root | write, symbol
+pipiti | root | be like, similarity
 pi:to | root | wash, water
 t:ikh | root | die, dead thing
 ti:pakh | root | overpower, strength
@@ -51,11 +55,14 @@ gitakta | 12+ | "hand and hand"
 ## Derivational Morphology
 
 |table
- | person
- | place
- | collection
- | tool
- | adjective
- | causative
- | diminutive
+morph | meaning | source
+- | - | -
+pat- | person | "write"
+bi- | place | "stay"
+akta- | collection | "many"
+ak- | tool | "do"
+pipti- | adjective | "similarity"
+da- | causative | "reason"
+ik- | diminutive | "small"
 |/table
+
