@@ -34,6 +34,8 @@ ti:pakh | root | overpower, strength
 ## Amounts
 
 |table
+ | amount | derivation
+- | - | -
 kagh | none | "broken"
 ipi | one | "self"
 ibbi | two | "self and self"
@@ -48,18 +50,12 @@ gitakta | 12+ | "hand and hand"
 
 ## Derivational Morphology
 
-person
-place
-collection
-tool
-adjective
-causative
-diminutive
-
-
-
-
-
-
-
-
+|table
+ | person
+ | place
+ | collection
+ | tool
+ | adjective
+ | causative
+ | diminutive
+|/table
