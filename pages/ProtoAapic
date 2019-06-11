@@ -7,12 +7,20 @@ Sentences are exclusively (S)ubject (O)bject (V)erb. In addition, noun phrases (
 Examples:
 
 * I gave my mother an egg.
-* my mother I one egg PASS-gift
+* my mother I one egg PASS-give
 * api bba a ipi igga tookotokki
 
-* Don't shoot the messenger
+* Don't shoot the messenger.
 * you messenger NEGIMP-shoot
 * i okippah kaadaokiptiggi
+
+* I see and hear you. (typical semiformal greeting)
+* I you see hear
+* a i apiitah aabih
+
+* I have seen many wedding feasts. (implying age)
+* I many wedding-feast PERF-see
+* a gitakta ippokidi biapiitah
 
 ---
 
@@ -211,6 +219,9 @@ mark | meaning | source
 - | - | -
  |  |
 |/table
+
+
+
 
 
 
