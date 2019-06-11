@@ -8,7 +8,7 @@ Example:
 
 * I gave my mother an egg.
 * my mother I one egg receive-gift
-* api bba a igga tookotokki
+* api bba a ipi igga tookotokki
 
 ---
 
@@ -120,7 +120,7 @@ simple | mother | human | animal | inanimate
 * comes from "ipi" - "self"
 
 |table
-in. poss| mother | human | animal | inanimate
+in. poss| mother | human | animate | inanimate
 - | - | -
 1st | aapi | api | - | -
 2nd | iipi | ipi | abipi | -
@@ -134,7 +134,7 @@ in. poss| mother | human | animal | inanimate
 * comes from "iboh kotoki" - "tabu-give"
 
 |table
-fam.in. poss| mother | human | animal | inanimate
+fam.in. poss| mother | human | animate | inanimate
 - | - | -
 1st | aa ipkhot | a ipkhot | - | -
 2nd | ii ipkhot | i ipkhot | - | -
@@ -148,7 +148,7 @@ fam.in. poss| mother | human | animal | inanimate
 * except for 3rd.in which comes from "bik" - "stay"
 
 |table
-al. poss| mother | human | animal | inanimate
+al. poss| mother | human | animate | inanimate
 - | - | -
 1st | aa togh | a togh | - | -
 2nd | ii togh | i togh | abi togh | -
@@ -198,6 +198,8 @@ mark | meaning | source
 - | - | -
  |  |
 |/table
+
+
 
 
 
