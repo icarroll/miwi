@@ -26,6 +26,10 @@ Examples:
 * I you POSS helper remain.
 * a i togh gitta biik
 
+### Syntax Rules
+
+S = 
+
 ---
 
 ## Roots
@@ -171,7 +175,7 @@ fam.in. poss| mother | human | animate | inanimate
 
 * tools, plant food, houses, social groups
 * comes from "togih" - "hold"
-* except for 3rd.in which comes from "bik" - "stay"
+* except for 3.in which comes from "biik" - "stay"
 
 |table
 al. poss| mother | human | animate | inanimate
@@ -179,6 +183,20 @@ al. poss| mother | human | animate | inanimate
 1st | aa togh | a togh | - | -
 2nd | ii togh | i togh | abi togh | -
 3rd | oo togh | o togh | aka togh | tibik
+|/table
+
+### Inverse Possession
+
+* roughly means "owned by" or "pertaining to"
+* comes from "tooko togih" - "receive hold"
+* except for 3.in which comes from "tooko biik" - "receive stay"
+
+|table
+inv. poss| mother | human | animate | inanimate
+- | - | -
+1st | tookh aa | tookh a | - | -
+2nd | tookh ii | tookh i | tookh abi | -
+3rd | tookh oo | tookh o | tookh aka | toobtikh
 |/table
 
 ---
@@ -225,31 +243,3 @@ kaada- | negative imperative | "discard obligation"
 too- | passive | "allow"
 tooda- | imperative | "receive obligation"
 |/table
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
