@@ -12,7 +12,7 @@ Examples:
 
 * Don't shoot the messenger.
 * you messenger NEGIMP-shoot
-* i okippah kaadaokiptiggi
+* i patokippah kaadaokiptiggi
 
 * I see and hear you. (typical semiformal greeting)
 * I you see hear
@@ -23,7 +23,7 @@ Examples:
 * a gitakta ippokidi biapiitah
 
 * I am at your service.
-* I you hold helper remain.
+* I you POSS helper remain.
 * a i togh gitta biik
 
 ---
@@ -73,7 +73,7 @@ aabih | a:bih | v | hear, listen
 aapah | a:pah | v | speak, talk
 abbih | a:bih | n | sound, ear
 apiitah | ap:itah | v | see, look
-appah | a:pah | n | speech, mouth, speaker
+appah | a:pah | n | speech, mouth
 appitah | ap:itah | n | eye, vision, thing seen
 akaa | ak:a | v | do, perform, make
 akka | ak:a | n | action, performance, made thing
@@ -104,10 +104,11 @@ gitta | gi:ta | n | hand, arm, assistance, helper
 iiki | i:ki | v | shrink, lack, decrease, be insufficient
 ikki | i:ki | n | smallness, insufficiency, hunger, empty
 okiptiigi | oki:pih ti:gi | v | shoot an arrow, sling a stone
-okippah| oki:pih a:pah | n | messenger, one who brings news
+okippah| oki:pih a:pah | n | news, message
 otooko | ot:oko | v | be inclement weather, be angry, yell
 ottoko | ot:oko | n | stormy sky, unpredictable, scary
 paata | pa:ta | v | write, tattoo, make a scar, represent
+patokippah| pa:ta oki:pih a:pah | n | messenger, bringer of news
 patta | pa:ta | n | symbol, tattoo, scar, memory, event
 pipiiti | pipi:ti | v | be similar, approximate, emulate, learn from
 pipitti | pipi:ti | n | similarity, representation, student
@@ -225,6 +226,8 @@ mark | meaning | source
 - | - | -
  |  |
 |/table
+
+
 
 
 
