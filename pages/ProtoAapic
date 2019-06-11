@@ -38,7 +38,7 @@ pipi:ti | root | be like, similarity
 pi:toh | root | wash, water
 pok:odi | root | grow, largeness
 ti:gi | root | hunt, meat
-t:ikh | root | die, dead thing
+t:ikh | root | die, death
 ti:pakh | root | overpower, strength
 to:gih | root | hold, grip
 to:ko | root | receive, allowed
@@ -181,13 +181,13 @@ gitakta | 12+ | "hand and hand"
 |table
 morph | meaning | source
 - | - | -
-pat- | person | "write"
-bi- | place | "stay"
-akta- | collection | "many"
 ak- | tool | "do"
-pipti- | adjective | "similarity"
+akta- | collection | "many"
+bi- | place | "stay"
 da- | causative | "reason"
 ik- | diminutive | "small"
+pat- | person | "write"
+pipti- | adjective | "similarity"
 too- | passive | "allow"
 |/table
 
@@ -200,6 +200,8 @@ mark | meaning | source
 - | - | -
  |  |
 |/table
+
+
 
 
 
