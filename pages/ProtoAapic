@@ -20,7 +20,7 @@ gi:ta | root | help, hand
 i:ki | root | shrink, smallness
 ot:oko | root | be inclement weather, sky
 pa:ta | root | write, symbol
-pipiti | root | be like, similarity
+pipi:ti | root | be like, similarity
 pi:toh | root | wash, water
 pok:odi | root | grow, largeness
 ti:gi | root | hunt, meat
@@ -39,9 +39,47 @@ Aapic | etymology | gloss
 aabih | a:bih | hear, listen
 aapah | a:pah | speak, talk
 abbih | a:bih | sound, ear
-appah | a:pah | speech, mouth
 apiitah | ap:itah | see, look
+appah | a:pah | speech, mouth
 appitah | ap:itah | eye, vision, thing seen
+akaa | ak:a | do, perform, make
+akka | ak:a | action, performance, made thing
+bbik | b:ik | residence, home, house, village, camp
+biik | b:ik | stay, reside, live, remain, persist
+daaki | da:ki | eat, chew, bite, spit, swallow
+daap | d:ap | cause, require, obligate
+dakki | da:ki | non-meat food, communal meal
+ddap | d:ap | reason, requirement, obligation
+ibboh | ib:oh | tabu, forbidden thing or action
+ibooh | ib:oh | forbid, ostracize, disown
+iipi | i:pi | be the same, match, distribute evenly
+ippi | i:pi | self, identical, equitable
+kaagh | k:agh | break, get rid of, cast aside
+kkagh | k:agh | broken, rubbish, absent
+kotooki | kot:oki | give, contribute, share
+kottoki | kot:oki | gift, communal property
+giita | gi:ta | help, assist, cooperate, lift, hold
+gitta | gi:ta | hand, arm, assistance, helper
+iiki | i:ki | shrink, lack, decrease, be insufficient
+ikki | i:ki | smallness, insufficiency, hunger, empty
+otooko | ot:oko | be inclement weather, be angry, yell
+ottoko | ot:oko | stormy sky, unpredictable, scary
+paata | pa:ta | write, tattoo, make a scar, represent
+patta | pa:ta | symbol, tattoo, scar, memory, event
+pipiiti | pipi:ti | be similar, approximate, emulate
+pipitti | pipi:ti | similarity, representation, student
+piitoh | pi:toh | wash, clean, rinse, soak, bathe, swim
+pittoh | pi:toh | water, body of water, wet
+pokkodi | pok:odi | largeness, sufficiency, plenty, full
+pokoodi | pok:odi | grow, increase, be enough, abound
+tiggi | ti:gi | meat, hunting trophy, family-inalienable
+tiigi | ti:gi | hunt, risk danger, give birth
+tiikh | t:ikh | die, rot, break tabu
+tiipakh | ti:pakh | overpower, pin down, conquer
+ttikh | t:ikh | dead thing, corpse, ostracized person
+tippakh | ti:pakh | strength, victory, indomitable
+toggih | to:gih | grip, fist, tools, weapons
+toogih | to:gih | hold, possess, pick up, keep
 |/table
 
 ---
@@ -139,5 +177,6 @@ mark | meaning | source
 - | - | -
  |  |
 |/table
+
 
 
