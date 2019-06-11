@@ -200,6 +200,8 @@ inv. poss| mother | human | animate | inanimate
 3rd | tookh oo | tookh o | tookh aka | toobtikh
 |/table
 
+With normal possession, the possessed object is the head of the NP. With inverse possession, the possessor is the head of the NP. The ownership relation remains the same.
+
 ---
 
 ## Amounts
@@ -211,10 +213,10 @@ kagh | none | "broken"
 ipi | one | "self"
 ibbi | two | "self and self"
 ipibi | three | "one and two"
-gita | 2-7 | "hand"
+gita | 2-7 / many | "hand"
 gitabi | 6-8 | "hand and two"
 ibgita | 8-14 | "two hand"
-gitakta | 12+ | "hand and hand"
+gitakta | 12+ / lots | "hand and hand"
 |/table
 
 ---
@@ -250,7 +252,4 @@ tooda- | imperative | "receive obligation"
 |/table
 
 The imperative and negative imperative change the stem verb to its noun form.
-
-
-
 
