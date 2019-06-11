@@ -1,5 +1,17 @@
 AapicPhonotactics
 
+## Sentence Structure
+
+Sentences are exclusively (S)ubject (O)bject (V)erb. In addition, noun phrases (NP) exclusively come in animacy order. Therefore, the verb must change form to accommodate word order while conveying the intended meaning.
+
+Example: 
+
+* I gave my mother an egg.
+* my mother I one egg receive-gift
+* api bba a igga tookotokki
+
+---
+
 ## Roots
 
 |table
@@ -9,16 +21,18 @@ a:bih | root | hear, sound
 a:pah | root | speak, speech
 ap:itah | root | see, eye
 ak:a | root | do, action
+b:a | root | nurture, mother
 b:ik | root | stay, residence
 da:ki | root | eat, (non-meat) food
 d:ap | root | cause, reason
 ib:oh | root | forbid, tabu
+ig:a | root | hide, egg
 i:pi | root | be the same, self
 k:agh | root | break, rubbish
 kot:oki | root | give, gift
 gi:ta | root | help, hand
 i:ki | root | shrink, smallness
-ot:oko | root | be inclement weather, sky
+ot:oko | root | be inclement weather, storm/sky
 pa:ta | root | write, symbol
 pipi:ti | root | be like, similarity
 pi:toh | root | wash, water
@@ -27,6 +41,7 @@ ti:gi | root | hunt, meat
 t:ikh | root | die, dead thing
 ti:pakh | root | overpower, strength
 to:gih | root | hold, grip
+to:ko | root | receive, allowed
 |/table
 
 ---
@@ -44,11 +59,14 @@ appah | a:pah | speech, mouth
 appitah | ap:itah | eye, vision, thing seen
 akaa | ak:a | do, perform, make
 akka | ak:a | action, performance, made thing
+baa | b:a | nurture, feed, raise, care for
+bba | b:a | mother, grandmother, mother's sister
 bbik | b:ik | residence, home, house, village, camp
 biik | b:ik | stay, reside, live, remain, persist
 daaki | da:ki | eat, chew, bite, spit, swallow
 daap | d:ap | cause, require, obligate
 dakki | da:ki | non-meat food, communal meal
+daptippakh | d:ap ti:pakh | father, parent's brother
 ddap | d:ap | reason, requirement, obligation
 ibboh | ib:oh | tabu, forbidden thing or action
 ibooh | ib:oh | forbid, ostracize, disown
@@ -79,7 +97,9 @@ tiipakh | ti:pakh | overpower, pin down, conquer
 ttikh | t:ikh | dead thing, corpse, ostracized person
 tippakh | ti:pakh | strength, victory, indomitable
 toggih | to:gih | grip, fist, tools, weapons
+tokko | to:ko | allowed, a gift received, permission
 toogih | to:gih | hold, possess, pick up, keep
+tooko | to:ko | allow, permit, receive, suffer
 |/table
 
 ---
@@ -166,6 +186,7 @@ ak- | tool | "do"
 pipti- | adjective | "similarity"
 da- | causative | "reason"
 ik- | diminutive | "small"
+too- | passive | "allow"
 |/table
 
 ---
@@ -177,6 +198,7 @@ mark | meaning | source
 - | - | -
  |  |
 |/table
+
 
 
 
