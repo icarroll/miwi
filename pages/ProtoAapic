@@ -11,7 +11,9 @@ ap:itah | root | see, eye
 ak:a | root | do, action
 b:ik | root | stay, residence
 d:ap | root | cause, reason
+ib:oh | root | forbid, tabu
 k:agh | root | break, rubbish
+kot:oki | root | give, gift
 gi:ta | root | help, hand
 i:ki | root | shrink, small
 pa:ta | root | write, symbol
@@ -19,6 +21,7 @@ pipiti | root | be like, similarity
 pi:toh | root | wash, water
 t:ikh | root | die, dead thing
 ti:pakh | root | overpower, strength
+to:gih | root | hold, grip
 |/table
 
 ---
@@ -26,11 +29,35 @@ ti:pakh | root | overpower, strength
 ## Pronouns
 
 |table
- | mother | human | animal | inanimate
+simple | mother | human | animal | inanimate
 - | - | -
 1st | aa | a | - | -
 2nd | ii | i | abi | -
 3rd | oo | o | aka | tikh
+|/table
+
+|table
+in. poss| mother | human | animal | inanimate
+- | - | -
+1st | aapi | api | - | -
+2nd | iipi | ipi | abipi | -
+3rd | oopi | opi | akapi | tippi
+|/table
+
+|table
+fam.in. poss| mother | human | animal | inanimate
+- | - | -
+1st | aa ipkhot | a ipkhot | - | -
+2nd | ii ipkhot | i ipkhot | - | -
+3rd | oo ipkhot | o ipkhot | - | -
+|/table
+
+|table
+al. poss| mother | human | animal | inanimate
+- | - | -
+1st | aa togh | a togh | - | -
+2nd | ii togh | i togh | abi togh | -
+3rd | oo togh | o togh | aka togh | tibik
 |/table
 
 ---
@@ -75,3 +102,4 @@ mark | meaning | source
 - | - | -
  |  |
 |/table
+
