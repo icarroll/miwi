@@ -75,59 +75,59 @@ Aapic | etymology | part of speech | gloss
 - | - | -
 aabih | a:bih | v | hear, listen
 aapah | a:pah | v | speak, talk
-abbih | a:bih | n | sound, ear
+abbih | a:bih | n.in | sound, ear
 apiitah | ap:itah | v | see, look
-appah | a:pah | n | speech, mouth
-appitah | ap:itah | n | eye, vision, thing seen
+appah | a:pah | n.an | speech, mouth
+appitah | ap:itah | n.in | eye, vision, thing seen
 akaa | ak:a | v | do, perform, make
-akka | ak:a | n | action, performance, made thing
+akka | ak:a | n.an | action, performance, made thing
 baa | b:a | v | nurture, feed, raise, care for
-bba | b:a | n | mother, grandmother, mother's sister
-bbik | b:ik | n | residence, home, house, village, camp
+bba | b:a | n.mo | mother, grandmother, mother's sister
+bbik | b:ik | n.in | residence, home, house, village, camp
 biik | b:ik | v | stay, reside, live, remain, persist
 daaki | da:ki | v | eat, chew, bite, spit, swallow
 daap | d:ap | v | cause, require, obligate
-dakki | da:ki | n | non-meat food, communal meal
-daptippakh | d:ap ti:pakh | n | father, parent's brother
-ddap | d:ap | n | reason, requirement, obligation
-ibboh | ib:oh | n | tabu, forbidden thing or action
+dakki | da:ki | n.in | non-meat food, communal meal
+daptippakh | d:ap ti:pakh | n.hu | father, parent's brother
+ddap | d:ap | n.in | reason, requirement, obligation
+ibboh | ib:oh | n.in | tabu, forbidden thing or action
 ibooh | ib:oh | v | forbid, ostracize, disown
 igaa | i:ga | v | hide, sneak, trick
 iipi | i:pi | v | be the same, match, distribute evenly
-ippokodi | i:pi pok:odi | n| winter wedding feast, year
-igga | i:ga | n | hidden, hider, trickster, egg
+ippokodi | i:pi pok:odi | n.in | winter wedding feast, year
+igga | i:ga | n.in | hidden, hider, trickster, egg
 ipaabih | i:pi a:bih | v | to name, to call by name
-ipabbih | i:pi a:bih | n | name, what a thing is called
-ippi | i:pi | n | self, identical, equitable
+ipabbih | i:pi a:bih | n.an | name, what a thing is called
+ippi | i:pi | n.an | self, identical, equitable
 kaagh | k:agh | v | break, get rid of, cast aside
-kkagh | k:agh | n | broken, rubbish, absent
+kkagh | k:agh | n.in | broken, rubbish, absent
 kotooki | kot:oki | v | give, contribute, share
-kottoki | kot:oki | n | gift, communal property
+kottoki | kot:oki | n.in | gift, communal property
 giita | gi:ta | v | help, assist, cooperate, lift, hold
-gitta | gi:ta | n | hand, arm, assistance, helper
+gitta | gi:ta | n.hu | hand, arm, assistance, helper
 iiki | i:ki | v | shrink, lack, decrease, be insufficient
-ikki | i:ki | n | smallness, insufficiency, hunger, empty
+ikki | i:ki | n.in | smallness, insufficiency, hunger, empty
 okiptiigi | oki:pih ti:gi | v | shoot an arrow, sling a stone
-okippah| oki:pih a:pah | n | news, message
+okippah| oki:pih a:pah | n.an | news, message
 otooko | ot:oko | v | be inclement weather, be angry, yell
-ottoko | ot:oko | n | stormy sky, unpredictable, scary
-paata | pa:ta | v | write, tattoo, make a scar, represent
-patokippah| pa:ta oki:pih a:pah | n | messenger, bringer of news
-patta | pa:ta | n | symbol, tattoo, scar, memory, event
+ottoko | ot:oko | n.mo | stormy sky, unpredictable, scary
+paata | pa:ta | v | write, tattoo, make a scar, represent, happen
+patokippah| pa:ta oki:pih a:pah | n.hu | messenger, bringer of news
+patta | pa:ta | n.in | symbol, tattoo, scar, memory, event
 pipiiti | pipi:ti | v | be similar, approximate, emulate, learn from
-pipitti | pipi:ti | n | similarity, representation, student
+pipitti | pipi:ti | n.an/.hu | similarity, representation, student
 piitoh | pi:toh | v | wash, clean, rinse, soak, bathe, swim
-pittoh | pi:toh | n | water, body of water, wet
-pokkodi | pok:odi | n | largeness, sufficiency, plenty, full
+pittoh | pi:toh | n.in | water, body of water, wet
+pokkodi | pok:odi | n.in | largeness, sufficiency, plenty, full
 pokoodi | pok:odi | v | grow, increase, be enough, abound
-tiggi | ti:gi | n | meat, hunting trophy, family-inalienable
+tiggi | ti:gi | n.in | meat, hunting trophy, family-inalienable
 tiigi | ti:gi | v | hunt, risk danger, give birth
 tiikh | t:ikh | v | die, rot, break tabu
 tiipakh | ti:pakh | v | overpower, pin down, conquer
-ttikh | t:ikh | n | dead thing, corpse, ostracized person
-tippakh | ti:pakh | n | strength, victory, indomitable
-toggih | to:gih | n | grip, fist, tools, weapons
-tokko | to:ko | n | allowed, a gift received, permission
+ttikh | t:ikh | n.in | dead thing, corpse, ostracized person
+tippakh | ti:pakh | n.an | strength, victory, indomitable
+toggih | to:gih | n.an | grip, fist, tools, weapons
+tokko | to:ko | n.an | allowed, a gift received, permission
 toogih | to:gih | v | hold, possess, pick up, keep
 tooko | to:ko | v | allow, permit, receive, suffer
 |/table
@@ -243,3 +243,5 @@ kaada- | negative imperative | "discard obligation"
 too- | passive | "allow"
 tooda- | imperative | "receive obligation"
 |/table
+
+
