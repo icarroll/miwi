@@ -4,11 +4,15 @@ AapicPhonotactics
 
 Sentences are exclusively (S)ubject (O)bject (V)erb. In addition, noun phrases (NP) exclusively come in animacy order. Therefore, the verb must change form to accommodate word order while conveying the intended meaning.
 
-Example: 
+Examples:
 
 * I gave my mother an egg.
-* my mother I one egg receive-gift
+* my mother I one egg PASS-gift
 * api bba a ipi igga tookotokki
+
+* Don't shoot the messenger
+* you messenger NEGIMP-shoot
+* i okippah kaadaokiptiggi
 
 ---
 
@@ -206,6 +210,7 @@ mark | meaning | source
 - | - | -
  |  |
 |/table
+
 
 
 
