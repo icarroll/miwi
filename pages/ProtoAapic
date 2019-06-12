@@ -35,8 +35,8 @@ Examples:
 * ati daptippakhti gitta tokkig toodakki
 
 * The coconut hit the warrior in the face.
-* fighter 3.hu-IN.POSS face large nut PASS-hit
-* pattipakh oti apitabbik pokodi NUT tooHIT ?
+* fighter 3.hu-IN.POSS face large nut PASS-LOC-hit
+* FIGHTER oti apitabbik pokodi NUT too?HIT
 
 ### Syntax Rules
 
@@ -55,7 +55,7 @@ ap:itah | see, eye
 ak:a | do, action
 b:a | nurture, mother
 b:ik | stay, residence
-da:ki | eat, (non-meat) food
+da:ki | eat, shareable food
 d:ap | cause, reason
 gi:ta | help, hand
 ib:oh | forbid, tabu
@@ -147,6 +147,7 @@ Aapic | etymology | part of speech | gloss
 aabih | a:bih | v | hear, listen
 aapah | a:pah | v | speak, talk
 abbih | a:bih | n.in | sound, ear
+akkikh | ak:a t:ikh | n.an | animate thing
 apitabbik | a:pah b:ik | n.in | face, head
 apiitah | ap:itah | v | see, look
 appah | a:pah | n.an | speech, mouth
@@ -213,7 +214,7 @@ tokkig | to:ko ti:gi | n.an | animal
 ## Pronouns
 
 |table
-simple | mother | human | animal | inanimate
+simple | mother | human | animate | inanimate
 - | - | -
 1st | aa | a | - | -
 2nd | ii | i | abi | -
@@ -330,5 +331,8 @@ tooda- | imperative | "receive obligation"
 |/table
 
 The imperative and negative imperative change the stem verb to its noun form.
+
+
+
 
 
