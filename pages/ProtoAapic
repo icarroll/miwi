@@ -9,40 +9,40 @@ Sentences are exclusively (S)ubject (O)bject (V)erb. In addition, noun phrases (
 Examples:
 
 * I gave my mother an egg.
-* 1.hu-POSS mother 1.hu one egg REV-give
-* ati bba a iti igga toakotooki
+* 1HU-IN.POSS mother 1HU one egg REV-give
+* a-ti bba a iti igga toak-otooki
 
 * Don't shoot the messenger.
-* 2.hu messenger PROH-shoot
-* i patokippah kaadaokiptiggi
+* 2HU messenger PROH-shoot
+* i patokippah kaada-okiptiggi
 
 * I see and hear you. (typical semiformal greeting)
-* 1.hu 2.hu see hear
+* 1HU 2HU see hear
 * a i apiitah aabih
-* 2.mo 1.hu REV-see REV-hear (when greeting a mother)
-* ii a toakapiitah toakaabih
+* 2MO 1HU REV-see REV-hear (when greeting a mother)
+* ii a toak-apiitah toak-aabih
 
 * I have seen many wedding feasts. (implying age)
-* 1.hu many wedding-feast PERF-see
-* a gitakta itdakpokkodi biapiitah
+* 1HU many wedding_feast PERF-see
+* a gitakta itdakpokkodi bi-apiitah
 
 * I am at your service.
-* 1.hu 2.hu AL.POSS helper remain.
+* 1HU 2HU AL.POSS helper remain.
 * a i togh gitta biik
-* 2.mo AL.POSS helper 1.hu remain. (when addressing a mother)
+* 2MO AL.POSS helper 1HU remain. (when addressing a mother)
 * ii togh gitta a biik
 
 * An animal bites my father's arm.
-* 1.hu-IN.POSS father-IN.POSS arm animal REV-bite
-* ati daptippakhti gitta tokkig toakdaaki
+* 1HU-IN.POSS father-IN.POSS arm animal REV-bite
+* a-ti daptippakh-ti gitta tokkig toak-daaki
 
 * The coconut hits the warrior in the face.
-* fighter 3.hu-IN.POSS face large nut PASS-LOC-INST-hit
-* FIGHTER oti apitabbik pokodi NUT tookitoghHIT
+* fighter 3HU-IN.POSS face large nut PASS-LOC-INST-hit
+* FIGHTER o-ti apitabbik pokodi NUT too-ki-togh-HIT
 
 * I see myself in the water.
-* 1.hu water REF-LOC-see
-* a pittoh ikokiapiitah
+* 1HU water REF-LOC-see
+* a pittoh ik-oki-apiitah
 
 ---
 
@@ -350,3 +350,4 @@ tooda- | to:gih d:ap | imperative | do
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double and triple passive, which indicate the verb takes two or three less arguments respectively, change the stem to its indefinite form.
+
