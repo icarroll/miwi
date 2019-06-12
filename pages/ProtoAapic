@@ -75,12 +75,71 @@ t:ikh | die, death
 ti:pakh | overpower, strength
 to:gih | hold, grip
 to:ko | receive, allowed
-
 |/table
 
 ---
 
 ## Lexicon
+
+### Needed Words
+
+* hit
+* fight
+* argue
+* insult
+* nut
+* insect
+* fish
+* bird
+* tree
+* flower
+* fruit
+* seed
+* leaf
+* wind
+* calm
+* sad
+* happy
+* afraid
+* surprise
+* disgust
+* leg
+* body
+* smell
+* touch
+* taste
+* walk
+* run
+* climb
+* sun
+* moon
+* star
+* cloud
+* rain
+* hot
+* cold
+* baby
+* boy
+* girl
+* man
+* woman
+* kinship terms
+* year-spouse
+* former spouse
+* dance
+* story
+* sing
+* knife
+* bow
+* arrow
+* spear
+* waterskin
+* fire
+* rock
+* dirt
+* village
+* hunting band
+* hunt leader
 
 |table
 Aapic | etymology | part of speech | gloss
@@ -88,6 +147,7 @@ Aapic | etymology | part of speech | gloss
 aabih | a:bih | v | hear, listen
 aapah | a:pah | v | speak, talk
 abbih | a:bih | n.in | sound, ear
+apitabbik | a:pah b:ik | n.in | face, head
 apiitah | ap:itah | v | see, look
 appah | a:pah | n.an | speech, mouth
 appitah | ap:itah | n.in | eye, vision, thing seen
@@ -97,7 +157,7 @@ baa | b:a | v | nurture, feed, raise, care for
 bba | b:a | n.mo | mother, grandmother, mother's sister
 bbik | b:ik | n.in | residence, home, house, village, camp
 biik | b:ik | v | stay, reside, live, remain, persist
-daaki | da:ki | v | eat, chew, bite, spit, swallow
+daaki | da:ki | v | eat, chew, bite, swallow
 daap | d:ap | v | cause, require, obligate
 dakki | da:ki | n.in | non-meat food, communal meal
 daptippakh | d:ap ti:pakh | n.hu | father, parent's brother
@@ -119,6 +179,7 @@ kaagh | k:agh | v | break, get rid of, cast aside
 kkagh | k:agh | n.in | broken, rubbish, absent
 kotooki | kot:oki | v | give, contribute, share
 kottoki | kot:oki | n.in | gift, communal property
+okipdaak | oki:pih da:ki | v | spit
 okiptiigi | oki:pih ti:gi | v | shoot an arrow, sling a stone
 okippah| oki:pih a:pah | n.an | news, message
 otooko | ot:oko | v | be inclement weather, be angry, yell
@@ -225,12 +286,12 @@ With normal possession, the possessed object is the head of the NP. With inverse
 - | - | -
 kagh | none | "broken"
 iti | one | "self"
-iddi | two | "self and self"
-itidi | three | "one and two"
+iddi | two | "self self"
+itidi | three | "one two"
 gita | 2-7 / many | "hand"
-gitati | 6-8 | "hand and two"
+gitati | 6-8 | "hand two"
 itgita | 8-14 | "two hand"
-gitakta | 12+ / lots | "hand and hand"
+gitakta | 12+ / lots | "hand hand"
 |/table
 
 ---
@@ -269,7 +330,4 @@ tooda- | imperative | "receive obligation"
 |/table
 
 The imperative and negative imperative change the stem verb to its noun form.
-
-
-
 
