@@ -40,6 +40,10 @@ Examples:
 * fighter 3.hu-IN.POSS face large nut PASS-LOC-INST-hit
 * FIGHTER oti apitabbik pokodi NUT tookitoghHIT
 
+* I see myself in the water.
+* 1.hu water REF-LOC-see
+* a pittoh ikokiapiitah
+
 ---
 
 ## Roots
@@ -328,13 +332,14 @@ mark | etymology | verb form | gloss
 - | - | -
 ak- | a:ka | agentive | by
 bi- | b:ik | perfect | action is completed
-da- | d:ap | causative | cause to
+da- | d:ap | causative | causes
 gi- | gi:ta | objective | takes additional patient argument
+ik- | i:ki | reflexive | -self
 kaada- | k:agh d:ap | negative imperative | do not
 kot- | kot:oki | benefactive | for
 oki- | oki:pih | locative | at
 paa- | pa:ta | double passive | takes no S or DO; old IO is new S
-pi- | pipi:ti | comitative | with
+pi- | pipi:ti | comitative | along with
 ti- | t:ikh | triple passive | takes no S, DO, or IO
 togh- | to:gih | instrumental | by means of
 too- | to:gih | passive | takes no S; old DO is new S
@@ -344,4 +349,6 @@ tooda- | to:gih d:ap | imperative | do
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double and triple passive, which indicate the verb takes two or three less arguments respectively, change the stem to its indefinite form.
+
+
 
