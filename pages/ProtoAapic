@@ -25,10 +25,14 @@ Examples:
 * a gitakta ippokidi biapiitah
 
 * I am at your service.
-* 1.hu 2.hu POSS helper remain.
+* 1.hu 2.hu AL.POSS helper remain.
 * a i togh gitta biik
-* 2.mo POSS helper 1.hu remain. (when addressing a mother)
+* 2.mo AL.POSS helper 1.hu remain. (when addressing a mother)
 * ii togh gitta a biik
+
+* My father's arm was bitten.
+* 1.hu-POSS father-IN.POSS arm PASS-bite
+* api daptippakhpi gitta toodakki
 
 ### Syntax Rules
 
@@ -259,4 +263,5 @@ tooda- | imperative | "receive obligation"
 |/table
 
 The imperative and negative imperative change the stem verb to its noun form.
+
 
