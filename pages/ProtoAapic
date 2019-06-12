@@ -51,6 +51,9 @@ Examples:
 |table
 root | gloss
 - | - | -
+ | burrow, deep
+ | be vast, the planet
+ | burn, fire
 a:bih | hear, sound
 a:pah | speak, speech
 ap:itah | see, eye
@@ -141,15 +144,10 @@ to:ko | receive, allowed
 * arrow
 * spear
 * waterskin
-* fire
 * rock
 * dirt
-* village
 * hunting band
 * hunt leader
-* deep
-* earth
-* accident
 * safety
 * special
 * certain
@@ -369,5 +367,6 @@ tooda- | to:gih d:ap | imperative | do
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double and triple passive, which indicate the verb takes two or three less arguments respectively, change the stem to its indefinite form.
+
 
 
