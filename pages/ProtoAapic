@@ -30,13 +30,17 @@ Examples:
 * 2.mo AL.POSS helper 1.hu remain. (when addressing a mother)
 * ii togh gitta a biik
 
-* My father's arm was bitten.
-* 1.hu-POSS father-IN.POSS arm PASS-bite
-* api daptippakhpi gitta toodakki
+* An animal bit my father's arm.
+* 1.hu-IN.POSS father-IN.POSS arm animal PASS-bite
+* api daptippakhpi gitta tokkig toodakki
+
+* An animal bit my mother's arm.
+* 1.hu-IN.POSS mother-IN.POSS arm animal PASS-bite
+* api bbapi gitta tokkig toodakki
 
 ### Syntax Rules
 
-S = 
+S = ?
 
 ---
 
@@ -139,6 +143,7 @@ toggih | to:gih | n.an | grip, fist, tools, weapons
 tokko | to:ko | n.an | allowed, a gift received, permission
 toogih | to:gih | v | hold, possess, pick up, keep
 tooko | to:ko | v | allow, permit, receive, suffer
+tokkig | to:ko ti:gi | n.an | animal
 |/table
 
 ---
@@ -263,5 +268,6 @@ tooda- | imperative | "receive obligation"
 |/table
 
 The imperative and negative imperative change the stem verb to its noun form.
+
 
 
