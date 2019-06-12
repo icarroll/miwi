@@ -7,26 +7,28 @@ Sentences are exclusively (S)ubject (O)bject (V)erb. In addition, noun phrases (
 Examples:
 
 * I gave my mother an egg.
-* my mother I one egg PASS-give
+* 1.hu-POSS mother 1.hu one egg PASS-give
 * api bba a ipi igga tookotokki
 
 * Don't shoot the messenger.
-* you messenger NEGIMP-shoot
+* 2.hu messenger NEGIMP-shoot
 * i patokippah kaadaokiptiggi
 
 * I see and hear you. (typical semiformal greeting)
-* I you see hear
+* 1.hu 2.hu see hear
 * a i apiitah aabih
-* You I PASS-see PASS-hear (when greeting a mother)
+* 2.mo 1.hu PASS-see PASS-hear (when greeting a mother)
 * ii a tooapiitah tooaabih
 
 * I have seen many wedding feasts. (implying age)
-* I many wedding-feast PERF-see
+* 1.hu many wedding-feast PERF-see
 * a gitakta ippokidi biapiitah
 
 * I am at your service.
-* I you POSS helper remain.
+* 1.hu 2.hu POSS helper remain.
 * a i togh gitta biik
+* 2.mo POSS helper 1.hu remain. (when addressing a mother)
+* ii togh gitta a biik
 
 ### Syntax Rules
 
@@ -254,6 +256,7 @@ tooda- | imperative | "receive obligation"
 |/table
 
 The imperative and negative imperative change the stem verb to its noun form.
+
 
 
 
