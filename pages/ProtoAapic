@@ -71,7 +71,7 @@ pipi:ti | be like, similarity
 pi:toh | wash, water
 pok:odi | grow, largeness
 ti:gi | hunt, meat
-t:ikh | die, death
+t:ikh | lose animacy, inanimate
 ti:pakh | overpower, strength
 to:gih | hold, grip
 to:ko | receive, allowed
@@ -197,9 +197,9 @@ pokobba | pok:odi b:a | n.mo | great mother, leader of the mothers
 pokoodi | pok:odi | v | grow, increase, be enough, abound
 tiggi | ti:gi | n.in | meat, hunting trophy, family-inalienable
 tiigi | ti:gi | v | hunt, risk danger, give birth
-tiikh | t:ikh | v | die, rot, break tabu
+tiikh | t:ikh | v | die, break tabu
 tiipakh | ti:pakh | v | overpower, pin down, conquer
-ttikh | t:ikh | n.in | dead thing, corpse, ostracized person
+ttikh | t:ikh | n.in | dead, inanimate object, ostracized person
 tippakh | ti:pakh | n.an | strength, victory, indomitable
 toggih | to:gih | n.an | grip, fist, tools, weapons
 tokko | to:ko | n.an | allowed, a gift received, permission
@@ -330,4 +330,5 @@ tooda- | imperative | "receive obligation"
 |/table
 
 The imperative and negative imperative change the stem verb to its noun form.
+
 
