@@ -9,8 +9,8 @@ Sentences are exclusively (S)ubject (O)bject (V)erb. In addition, noun phrases (
 Examples:
 
 * I gave my mother an egg.
-* 1.hu-POSS mother 1.hu one egg PASS-AG-INST-give
-* ati bba a iti igga tooaktokotokki
+* 1.hu-POSS mother 1.hu one egg 3PASS-BEN-AG-OBJ-give
+* ati bba a iti igga tiktakgikotokki
 
 * Don't shoot the messenger.
 * 2.hu messenger NEGIMP-shoot
@@ -333,11 +333,13 @@ mark | etymology | meaning | source
 ak- | a:ka | agentive | "do"
 bi- | b:ik | perfect | "remain"
 da- | d:ap | causative | "reason"
+gi- | gi:ta | objective | "hand"
 kaada- | k:agh d:ap | negative imperative | "discard obligation"
 kot- | kot:oki | benefactive | "give"
 oki- | oki:pih | locative | "throw"
 paa- | pa:ta | double passive | "happen"
 pi- | pipi:ti | comitative | "similarity"
+ti- | t:ikh | triple passive | "lose agency"
 togh- | to:gih | instrumental | "grip"
 too- | to:gih | passive | "receive"
 tooda- | to:gih d:ap | imperative | "receive obligation"
@@ -346,6 +348,7 @@ tooda- | to:gih d:ap | imperative | "receive obligation"
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double passive, which indicates the verb takes two less arguments, changes the stem to its indefinite form.
+
 
 
 
