@@ -8,7 +8,7 @@ Examples:
 
 * I gave my mother an egg.
 * 1.hu-POSS mother 1.hu one egg PASS-give
-* api bba a ipi igga tookotokki
+* ati bba a iti igga tookotokki
 
 * Don't shoot the messenger.
 * 2.hu messenger NEGIMP-shoot
@@ -22,7 +22,7 @@ Examples:
 
 * I have seen many wedding feasts. (implying age)
 * 1.hu many wedding-feast PERF-see
-* a gitakta ippokidi biapiitah
+* a gitakta itpokodi biapiitah
 
 * I am at your service.
 * 1.hu 2.hu AL.POSS helper remain.
@@ -32,7 +32,7 @@ Examples:
 
 * An animal bit my father's arm.
 * 1.hu-IN.POSS father-IN.POSS arm animal PASS-bite
-* api daptippakhpi gitta tokkig toodakki
+* ati daptippakhpi gitta tokkig toodakki
 
 ### Syntax Rules
 
@@ -57,7 +57,7 @@ gi:ta | help, hand
 ib:oh | forbid, tabu
 ig:a | hide, egg
 i:ki | shrink, smallness
-i:pi | be the same, self
+i:ti | be the same, self
 k:agh | break, rubbish
 kot:oki | give, gift
 oki:pih | throw, distant
@@ -105,12 +105,12 @@ ibooh | ib:oh | v | forbid, ostracize, disown
 igaa | i:ga | v | hide, sneak, trick
 igga | i:ga | n.an | hidden, hider, trickster, egg
 iiki | i:ki | v | shrink, lack, decrease, be insufficient
-iipi | i:pi | v | be the same, match, distribute evenly
 ikki | i:ki | n.in | smallness, insufficiency, hunger, empty
-ipaabih | i:pi a:bih | v | to name, to call by name
-ipabbih | i:pi a:bih | n.an | name, what a thing is called
-ippi | i:pi | n.an | self, identical, equitable
-ippokodi | i:pi pok:odi | n.in | winter wedding feast, year
+itaabih | i:ti a:bih | v | to name, to call by name
+itabbih | i:ti a:bih | n.an | name, what a thing is called
+itpokodi | i:ti pok:odi | n.in | winter wedding feast, year
+iiti | i:ti | v | be the same, match, distribute evenly
+itti | i:ti | n.an | self, identical, equitable
 kaagh | k:agh | v | break, get rid of, cast aside
 kkagh | k:agh | n.in | broken, rubbish, absent
 kotooki | kot:oki | v | give, contribute, share
@@ -157,14 +157,14 @@ simple | mother | human | animal | inanimate
 ### Inalienable Possession:
 
 * body parts, thoughts/feelings, social status, family
-* comes from "ipi" - "self"
+* comes from "iti" - "self"
 
 |table
 in. poss| mother | human | animate | inanimate
 - | - | -
-1st | aapi | api | - | -
-2nd | iipi | ipi | abipi | -
-3rd | oopi | opi | akapi | tippi
+1st | aati | ati | - | -
+2nd | iiti | iti | abiti | -
+3rd | ooti | oti | akati | tikki
 |/table
 
 
@@ -219,12 +219,12 @@ With normal possession, the possessed object is the head of the NP. With inverse
  | amount | derivation
 - | - | -
 kagh | none | "broken"
-ipi | one | "self"
-ibbi | two | "self and self"
-ipibi | three | "one and two"
+iti | one | "self"
+iddi | two | "self and self"
+itidi | three | "one and two"
 gita | 2-7 / many | "hand"
-gitabi | 6-8 | "hand and two"
-ibgita | 8-14 | "two hand"
+gitati | 6-8 | "hand and two"
+itgita | 8-14 | "two hand"
 gitakta | 12+ / lots | "hand and hand"
 |/table
 
@@ -264,8 +264,3 @@ tooda- | imperative | "receive obligation"
 |/table
 
 The imperative and negative imperative change the stem verb to its noun form.
-
-
-
-
-
