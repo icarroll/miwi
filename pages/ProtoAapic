@@ -1,5 +1,7 @@
 AapicPhonotactics
 
+ProtoAapicChernobyl
+
 ## Sentence Structure
 
 Sentences are exclusively (S)ubject (O)bject (V)erb. In addition, noun phrases (NP) exclusively come in animacy order. Therefore, the verb must change form to accommodate word order while conveying the intended meaning.
@@ -7,8 +9,8 @@ Sentences are exclusively (S)ubject (O)bject (V)erb. In addition, noun phrases (
 Examples:
 
 * I gave my mother an egg.
-* 1.hu-POSS mother 1.hu one egg PASS-give
-* ati bba a iti igga tookotokki
+* 1.hu-POSS mother 1.hu one egg PASS-AG-INST-give
+* ati bba a iti igga tooaktokotokki
 
 * Don't shoot the messenger.
 * 2.hu messenger NEGIMP-shoot
@@ -17,8 +19,8 @@ Examples:
 * I see and hear you. (typical semiformal greeting)
 * 1.hu 2.hu see hear
 * a i apiitah aabih
-* 2.mo 1.hu PASS-see PASS-hear (when greeting a mother)
-* ii a tooapiitah tooaabih
+* 2.mo 1.hu PASS-AG-see PASS-AG-hear (when greeting a mother)
+* ii a tooakapiitah tooakaabih
 
 * I have seen many wedding feasts. (implying age)
 * 1.hu many wedding-feast PERF-see
@@ -35,8 +37,8 @@ Examples:
 * ati daptippakhti gitta tokkig toodakki
 
 * The coconut hit the warrior in the face.
-* fighter 3.hu-IN.POSS face large nut PASS-LOC-hit
-* FIGHTER oti apitabbik pokodi NUT too?HIT
+* fighter 3.hu-IN.POSS face large nut PASS-LOC-INST-hit
+* FIGHTER oti apitabbik pokodi NUT tookiakHIT
 
 ### Syntax Rules
 
@@ -328,13 +330,15 @@ The adjectival prefix is typically only added to a stem when it is of higher ani
 |table
 mark | etymology | meaning | source
 - | - | -
-ak- | a:ka | instrumental | "do"
+ak- | a:ka | agentive | "do"
 bi- | b:ik | perfect | "remain"
 da- | d:ap | causative | "reason"
 kaada- | k:agh d:ap | negative imperative | "discard obligation"
 kot- | kot:oki | benefactive | "give"
 oki- | oki:pih | locative | "throw"
 paa- | pa:ta | double passive | "happen"
+pi- | pipi:ti | comitative | "similarity"
+togh- | to:gih | instrumental | "grip"
 too- | to:gih | passive | "receive"
 tooda- | to:gih d:ap | imperative | "receive obligation"
 |/table
@@ -342,3 +346,5 @@ tooda- | to:gih d:ap | imperative | "receive obligation"
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double passive, which indicates the verb takes no arguments, changes the stem to its indefinite form.
+
+
