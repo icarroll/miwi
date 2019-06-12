@@ -32,7 +32,11 @@ Examples:
 
 * An animal bit my father's arm.
 * 1.hu-IN.POSS father-IN.POSS arm animal PASS-bite
-* ati daptippakhpi gitta tokkig toodakki
+* ati daptippakhti gitta tokkig toodakki
+
+* The coconut hit the warrior in the face.
+* fighter 3.hu-IN.POSS face large nut PASS-hit
+* pattipakh oti apitabbik pokodi NUT tooHIT ?
 
 ### Syntax Rules
 
@@ -122,6 +126,7 @@ ottoko | ot:oko | n.mo | stormy sky, unpredictable, anger, scary
 paata | pa:ta | v | write, tattoo, make a scar, represent, happen
 patokippah| pa:ta oki:pih a:pah | n.hu | messenger, bringer of news
 patta | pa:ta | n.in | symbol, tattoo, scar, memory, event
+pattipakh | pa:ta ti:pakh | n.hu | fighter, victor
 pipiiti | pipi:ti | v | be similar, approximate, emulate, learn from
 pipitti | pipi:ti | n.an/.hu | similarity, representation, student
 piitoh | pi:toh | v | wash, clean, rinse, soak, bathe, swim
@@ -264,5 +269,7 @@ tooda- | imperative | "receive obligation"
 |/table
 
 The imperative and negative imperative change the stem verb to its noun form.
+
+
 
 
