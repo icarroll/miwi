@@ -33,12 +33,12 @@ Examples:
 * ii togh gitta a biik
 
 * An animal bit my father's arm.
-* 1.hu-IN.POSS father-IN.POSS arm animal PASS-bite
-* ati daptippakhti gitta tokkig toodakki
+* 1.hu-IN.POSS father-IN.POSS arm animal PASS-AG-bite
+* ati daptippakhti gitta tokkig tooakdakki
 
 * The coconut hit the warrior in the face.
 * fighter 3.hu-IN.POSS face large nut PASS-LOC-INST-hit
-* FIGHTER oti apitabbik pokodi NUT tookiakHIT
+* FIGHTER oti apitabbik pokodi NUT tookitoghHIT
 
 ### Syntax Rules
 
@@ -348,6 +348,7 @@ tooda- | to:gih d:ap | imperative | "receive obligation"
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double passive, which indicates the verb takes two less arguments, changes the stem to its indefinite form.
+
 
 
 
