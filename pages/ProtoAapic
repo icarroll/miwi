@@ -38,7 +38,7 @@ Examples:
 
 * The coconut hits the warrior in the face.
 * fighter 3HU-IN.POSS face large nut PASS-LOC-INST-hit
-* FIGHTER o-ti apitabbik pokodi obottik too-ki-togh-HIT
+* patkakkit o-ti apitabbik pokodi obottik too-ki-togh-HIT
 
 * I see myself in the water.
 * 1HU water REF-LOC-see
@@ -69,6 +69,7 @@ ig:a | hide, egg
 i:ki | shrink, smallness
 i:ti | be the same, self
 k:agh | break, rubbish
+kak:it | contend, conflict
 kha:kat | harm, dangerous
 kit:ik | burn, fire
 kot:oki | give, gift
@@ -95,7 +96,6 @@ to:ko | receive, allowed
 ### Needed Words
 
 * hit
-* fight
 * argue
 * insult
 * insect
@@ -206,6 +206,7 @@ okippah| oki:pih a:pah | n.an | news, message
 otooko | ot:oko | v | be inclement weather, be angry, yell
 ottoko | ot:oko | n.mo | stormy sky, unpredictable, anger, scary
 paata | pa:ta | v | write, tattoo, make a scar, represent, happen
+patkakkit | pa:ta kak:it | fighter, brawler, malcontent
 pattoghtabik | pa:ta a to:gih gi:ta gi:ta b:ik | n.an | member of my village
 patokippah| pa:ta oki:pih a:pah | n.hu | messenger, bringer of news
 patta | pa:ta | n.in | symbol, tattoo, scar, memory, event
@@ -366,6 +367,7 @@ tooda- | to:gih d:ap | imperative | do
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double and triple passive, which indicate the verb takes two or three less arguments respectively, change the stem to its indefinite form.
+
 
 
 
