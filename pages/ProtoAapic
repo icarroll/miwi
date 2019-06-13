@@ -62,7 +62,8 @@ bi:ti | intend, plan
 bo:ki | enter, inside
 da:ki | eat, shareable food
 d:ap | cause, reason
-gi:ta | help, hand
+dio:ta | walk, leg
+gi:ta | help, hand/arm
 ha:kh | illness, disease
 ib:oh | forbid, tabu
 ig:a | hide, egg
@@ -116,8 +117,6 @@ to:ko | receive, allowed
 * smell
 * touch
 * taste
-* walk
-* run
 * climb
 * sun
 * moon
@@ -180,7 +179,9 @@ dahakkh | d:ap ha:kh | n.an | cause of illness, miasma
 dakki | da:ki | n.in | non-meat food, communal meal
 daptippakh | d:ap ti:pakh | n.hu | father, parent's brother
 ddap | d:ap | n.in | reason, requirement, obligation
+dioota | dio:ta | v | walk, go
 giita | gi:ta | v | help, assist, cooperate, lift, hold
+gitadioota | gi:ta dio:ta | v | run, hurry
 gitta | gi:ta | n.hu | hand, arm, assistance, helper
 ibboh | ib:oh | n.in | tabu, forbidden thing or action
 ibooh | ib:oh | v | forbid, ostracize, disown
@@ -367,6 +368,7 @@ tooda- | to:gih d:ap | imperative | do
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double and triple passive, which indicate the verb takes two or three less arguments respectively, change the stem to its indefinite form.
+
 
 
 
