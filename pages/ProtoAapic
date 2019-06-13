@@ -38,7 +38,7 @@ Examples:
 
 * The coconut hits the warrior in the face.
 * fighter 3HU-IN.POSS face large nut PASS-LOC-INST-hit
-* FIGHTER o-ti apitabbik pokodi NUT too-ki-togh-HIT
+* FIGHTER o-ti apitabbik pokodi obottik too-ki-togh-HIT
 
 * I see myself in the water.
 * 1HU water REF-LOC-see
@@ -55,6 +55,7 @@ a:bih | hear, sound
 a:pah | speak, speech
 ap:itah | see, eye
 ak:a | do, action
+ato:ba | be tall, tree
 b:a | nurture, mother
 b:ik | stay, residence
 bi:ti | intend, plan
@@ -71,6 +72,7 @@ k:agh | break, rubbish
 kha:kat | harm, dangerous
 kit:ik | burn, fire
 kot:oki | give, gift
+obo:ti | roll, round
 oki:pih | throw, distant
 opob:o | inspire awe/fear, the planet
 ot:oko | inclement weather, storm
@@ -96,14 +98,11 @@ to:ko | receive, allowed
 * fight
 * argue
 * insult
-* nut
 * insect
 * fish
 * bird
-* tree
 * flower
 * fruit
-* seed
 * leaf
 * wind
 * calm
@@ -155,7 +154,6 @@ to:ko | receive, allowed
 * now
 * only
 * near
-* enter
 * area
 * demonstratives
 
@@ -201,6 +199,7 @@ khakkat | kha:kat | n.an | dangerous, harmful
 kkagh | k:agh | n.in | broken, rubbish, absent
 kotooki | kot:oki | v | give, contribute, share
 kottoki | kot:oki | n.in | gift, communal property
+obottik | obo:ti i:ki | n.in | seed, nut, pebble
 okipdaak | oki:pih da:ki | v | spit
 okiptiigi | oki:pih ti:gi | v | shoot an arrow, sling a stone
 okippah| oki:pih a:pah | n.an | news, message
@@ -367,6 +366,7 @@ tooda- | to:gih d:ap | imperative | do
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double and triple passive, which indicate the verb takes two or three less arguments respectively, change the stem to its indefinite form.
+
 
 
 
