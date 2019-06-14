@@ -49,14 +49,28 @@ Examples:
 
 ### Grammar workshop
 
+#### Goblin stepping
+
 * I try to get him to step on the goblin.
 * (?) 1HU 3HU scrawny-monster AD-walk-IRR aim
 * a o ik-opoptokki otko-dioota-khai hapoota
 * I attempt that he may walk on the scrawny monster.
 
+* I try to cause him to step on the goblin.
+
+* I try to force/trick/persuade him to step on the goblin.
+
+* I beg/dare him to step on the goblin.
+
+* I insist/demand that he step on the goblin.
+
 * My goal is that he steps on the goblin.
 * 1HU-IN.POSS goal 3HU scrawny-monster AD-walk-IRR be_same
 * a-ti hapotta o ik-opoptokki otko-dioota-khai iiki
+
+* Hopefully I am making him step on the goblin.
+
+#### Other sentences
 
 * Oje carved the arrow’s fine point.
 
@@ -408,4 +422,5 @@ mark | etymology | verb form | gloss
 |/table
 
 The double and triple passive indicate the verb takes two or three less arguments respectively.
+
 
