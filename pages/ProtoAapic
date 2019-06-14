@@ -45,8 +45,10 @@ Examples:
 * a pittoh ik-oki-apiitah
 
 * I try to get him to step on the goblin.
+* 1HU 3HU scary beast AD-walk-IRR aim
+* a o opobo tokkig AD-?-
 
-* Oje carved (shaved off) the arrow’s fine point.
+* Oje carved the arrow’s fine point.
 
 * They are to finish boiling the well water. Then, they will cook with or drink it.
 
@@ -77,8 +79,10 @@ d:ap | cause, reason
 dio:ta | walk, leg
 gi:ta | help, hand/arm
 ha:kh | illness, disease
+hapo:ta | aim, goal
 ib:oh | forbid, tabu
 ig:a | hide, egg
+ikh:ai | mystify, wind
 i:ki | shrink, smallness
 i:ti | be the same, self
 k:agh | break, rubbish
@@ -109,7 +113,6 @@ to:ko | receive, allowed
 
 ### Needed Words
 
-* hit
 * argue
 * insult
 * insect
@@ -118,14 +121,12 @@ to:ko | receive, allowed
 * flower
 * fruit
 * leaf
-* wind
 * calm
 * sad
 * happy
 * afraid
 * surprise
 * disgust
-* leg
 * body
 * smell
 * touch
@@ -155,7 +156,6 @@ to:ko | receive, allowed
 * arrow
 * spear
 * waterskin
-* rock
 * dirt
 * hunting band
 * hunt leader
@@ -370,6 +370,7 @@ da- | d:ap | causative | causes
 gi- | gi:ta | objective | takes additional patient argument
 ik- | i:ki | reflexive | -self
 kaada- | k:agh d:ap | prohibitive | do not
+-khai | ikh:ai | irrealis | perhaps
 khi- | khi:ka | negative | does not
 kot- | kot:oki | benefactive | for
 oki- | oki:pih | locative | at
@@ -385,3 +386,4 @@ tooda- | to:gih d:ap | imperative | do
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double and triple passive, which indicate the verb takes two or three less arguments respectively, change the stem to its indefinite form.
+
