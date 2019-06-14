@@ -11,6 +11,7 @@ Examples:
 * I gave my mother an egg.
 * 1HU-IN.POSS mother 1HU one egg REV-give
 * a-ti bba a iti igga toak-otooki
+* My mother was given one egg by me.
 
 * Don't shoot the messenger.
 * 2HU messenger shoot-PROH
@@ -38,16 +39,38 @@ Examples:
 
 * The coconut hits the warrior in the face.
 * fighter 3HU-IN.POSS face large nut LOC-INST-hit-PASS
-* patkakkit o-ti apitabbik pokodi obottik ki-togh-khaatka-ogh
+* patkakkit o-ti apitabbik pokodi obottik bik-togh-khaatka-ogh
 
 * I see myself in the water.
 * 1HU water REF-LOC-see
-* a pittoh ik-oki-apiitah
+* a pittoh ik-bik-apiitah
+
+---
+
+### Grammar workshop
 
 * I try to get him to step on the goblin.
 * 1HU 3HU scrawny-monster AD-walk-IRR aim
 * a o ik-opoptokki otko-dioota-khai hapoota
 * I attempt that he may walk on the scrawny monster.
+
+* My plan is that he steps on the goblin.
+
+* I want him to step on the goblin.
+
+* I expect he steps on the goblin.
+
+* I think he steps on the goblin.
+
+* Maybe he steps on the goblin.
+
+* I try to cause him to step on the goblin.
+
+* I try to force him to step on the goblin.
+
+* I try to trick him into stepping on the goblin.
+
+* I try to persuade him to step on the goblin.
 
 * Oje carved the arrow’s fine point.
 
@@ -363,29 +386,38 @@ The adjectival prefix is typically only added to a stem when it is of higher ani
 
 ## Verb Markers
 
+### Prefixes (applicative moods)
+
 |table
 mark | etymology | verb form | gloss
 - | - | -
 ak- | a:ka | agentive AG | by
--ap | d:ap | imperative IMP | do
+bik- | b:ik | locative LOC | at
 bo- | bo:ki | inessive IN | within
 da- | d:ap | causative CAUS | causes
-gi- | gi:ta | objective OBJ | additional patient argument
--ib | ib:oh | prohibitive PROH | do not
--ipk | b:ik | perfect PERF | completed or past action
+gi- | gi:ta | objective OBJ | addtl. patient
 ik- | i:ki | reflexive REF | -self
--ikha | khi:ka | negative NEG | does not
--khai | ikh:ai | irrealis IRR | perhaps
 kot- | kot:oki | benefactive BEN | for
-oki- | oki:pih | locative LOC | at
-otko- | ot:oko | adessive AD | on
--pta | pa:ta | double passive 2PASS | takes no S or DO; old IO is new S
+oki- | oki:pih | adelative ADEL | from
+otko- | ot:oko | adessive ADES | on
 pi- | pipi:ti | comitative COM | along with
--tikh | t:ikh | triple passive 3PASS | takes no S, DO, or IO
 toak- | to:gih a:ka | reversive REV | swaps S with DO
 togh- | to:gih | instrumental INST | by means of
+|/table
+
+### Suffixes (other moods and aspects)
+
+|table
+mark | etymology | verb form | gloss
+- | - | -
+-ap | d:ap | imperative IMP | do
+-ib | ib:oh | prohibitive PROH | do not
+-ipk | b:ik | perfect PERF | completed or past action
+-ikha | khi:ka | negative NEG | does not
+-khai | ikh:ai | irrealis IRR | perhaps
+-pta | pa:ta | double passive 2PASS | takes no S or DO; old IO is new S
+-tikh | t:ikh | triple passive 3PASS | takes no S, DO, or IO
 -ogh | to:gih | passive PASS | takes no S; old DO is new S
 |/table
 
 The double and triple passive indicate the verb takes two or three less arguments respectively.
-
