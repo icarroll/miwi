@@ -360,6 +360,14 @@ The adjectival prefix is typically only added to a stem when it is of higher ani
 
 ## Verb Markers
 
+Changes to make:
+
+* perfect -> suffix
+* prohibitive -> suffix
+* negative -> suffix
+* all 3 passives -> suffix
+* imperative -> suffix
+
 |table
 mark | etymology | verb form | gloss
 - | - | -
@@ -367,7 +375,7 @@ ak- | a:ka | agentive | by
 bi- | b:ik | perfect | action is completed
 bo- | bo:ki | inessive | within
 da- | d:ap | causative | causes
-gi- | gi:ta | objective | takes additional patient argument
+gi- | gi:ta | objective | additional patient argument
 ik- | i:ki | reflexive | -self
 kaada- | k:agh d:ap | prohibitive | do not
 -khai | ikh:ai | irrealis | perhaps
@@ -386,4 +394,5 @@ tooda- | to:gih d:ap | imperative | do
 The passive, imperative, and negative imperative change the stem verb to its noun form.
 
 The double and triple passive, which indicate the verb takes two or three less arguments respectively, change the stem to its indefinite form.
+
 
