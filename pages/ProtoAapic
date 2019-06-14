@@ -13,8 +13,8 @@ Examples:
 * a-ti bba a iti igga toak-otooki
 
 * Don't shoot the messenger.
-* 2HU messenger PROH-shoot
-* i patokippah kaada-okiptiggi
+* 2HU messenger shoot-PROH
+* i patokippah okiptiigi-ib
 
 * I see and hear you. (typical semiformal greeting)
 * 1HU 2HU see hear
@@ -24,7 +24,7 @@ Examples:
 
 * I have seen many wedding feasts. (implying age)
 * 1HU many wedding_feast see-PERF
-* a gitakta itdakpokkodi apiitah-ibk
+* a gitakta itdakpokkodi apiitah-ipk
 
 * I am at your service.
 * 1HU 2HU AL.POSS helper remain.
@@ -37,8 +37,8 @@ Examples:
 * a-ti daptippakh-ti gitta tokkig toak-daaki
 
 * The coconut hits the warrior in the face.
-* fighter 3HU-IN.POSS face large nut PASS-LOC-INST-hit
-* patkakkit o-ti apitabbik pokodi obottik too-ki-togh-khaatka [tookitokkhaatka]
+* fighter 3HU-IN.POSS face large nut LOC-INST-hit-PASS
+* patkakkit o-ti apitabbik pokodi obottik ki-togh-khaatka-ogh
 
 * I see myself in the water.
 * 1HU water REF-LOC-see
@@ -93,7 +93,7 @@ kit:ik | burn, fire
 kot:oki | give, gift
 obo:ti | roll, round
 oki:pih | throw, distant
-opob:o | inspire awe/fear, the planet
+opob:o | inspire awe, world
 ot:oko | inclement weather, storm
 pa:ta | write, symbol
 pipi:ti | be like, similarity
@@ -360,39 +360,27 @@ The adjectival prefix is typically only added to a stem when it is of higher ani
 
 ## Verb Markers
 
-Changes to make:
-
-* prohibitive -> suffix
-* negative -> suffix
-* all 3 passives -> suffix
-* imperative -> suffix
-
 |table
 mark | etymology | verb form | gloss
 - | - | -
-ak- | a:ka | agentive | by
--ibk | b:ik | perfect | action is completed
-bo- | bo:ki | inessive | within
-da- | d:ap | causative | causes
-gi- | gi:ta | objective | additional patient argument
-ik- | i:ki | reflexive | -self
-kaada- | k:agh d:ap | prohibitive | do not
--khai | ikh:ai | irrealis | perhaps
-khi- | khi:ka | negative | does not
-kot- | kot:oki | benefactive | for
-oki- | oki:pih | locative | at
-paa- | pa:ta | double passive | takes no S or DO; old IO is new S
-pi- | pipi:ti | comitative | along with
-ti- | t:ikh | triple passive | takes no S, DO, or IO
-toak- | to:gih a:ka | reversive | swaps S with DO
-togh- | to:gih | instrumental | by means of
-too- | to:gih | passive | takes no S; old DO is new S
-tooda- | to:gih d:ap | imperative | do
+ak- | a:ka | agentive AG | by
+-ap | d:ap | imperative IMP | do
+bo- | bo:ki | inessive IN | within
+da- | d:ap | causative CAUS | causes
+gi- | gi:ta | objective OBJ | additional patient argument
+-ib | ib:oh | prohibitive PROH | do not
+-ipk | b:ik | perfect PERF | completed or past action
+ik- | i:ki | reflexive REF | -self
+-ikha | khi:ka | negative NEG | does not
+-khai | ikh:ai | irrealis IRR | perhaps
+kot- | kot:oki | benefactive BEN | for
+oki- | oki:pih | locative LOC | at
+-pta | pa:ta | double passive 2PASS | takes no S or DO; old IO is new S
+pi- | pipi:ti | comitative COM | along with
+-tikh | t:ikh | triple passive 3PASS | takes no S, DO, or IO
+toak- | to:gih a:ka | reversive REV | swaps S with DO
+togh- | to:gih | instrumental INST | by means of
+-ogh | to:gih | passive PASS | takes no S; old DO is new S
 |/table
 
-The passive, imperative, and negative imperative change the stem verb to its noun form.
-
-The double and triple passive, which indicate the verb takes two or three less arguments respectively, change the stem to its indefinite form.
-
-
-
+The double and triple passive indicate the verb takes two or three less arguments respectively.
