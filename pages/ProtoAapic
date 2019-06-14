@@ -50,27 +50,13 @@ Examples:
 ### Grammar workshop
 
 * I try to get him to step on the goblin.
-* 1HU 3HU scrawny-monster AD-walk-IRR aim
+* (?) 1HU 3HU scrawny-monster AD-walk-IRR aim
 * a o ik-opoptokki otko-dioota-khai hapoota
 * I attempt that he may walk on the scrawny monster.
 
-* My plan is that he steps on the goblin.
-
-* I want him to step on the goblin.
-
-* I expect he steps on the goblin.
-
-* I think he steps on the goblin.
-
-* Maybe he steps on the goblin.
-
-* I try to cause him to step on the goblin.
-
-* I try to force him to step on the goblin.
-
-* I try to trick him into stepping on the goblin.
-
-* I try to persuade him to step on the goblin.
+* My goal is that he steps on the goblin.
+* 1HU-IN.POSS goal 3HU scrawny-monster AD-walk-IRR be_same
+* a-ti hapotta o ik-opoptokki otko-dioota-khai iiki
 
 * Oje carved the arrow’s fine point.
 
@@ -168,7 +154,7 @@ to:ko | receive, allowed
 * girl
 * man
 * woman
-* kinship terms
+* **kinship terms**
 * year-spouse
 * former spouse
 * co-parent
@@ -191,7 +177,7 @@ to:ko | receive, allowed
 * only
 * near
 * area
-* demonstratives
+* **demonstratives**
 
 |table
 Aapic | etymology | part of speech | gloss
@@ -267,6 +253,7 @@ tiikh | t:ikh | v | die, break tabu
 tiipakh | ti:pakh | v | overpower, pin down, conquer
 ttikh | t:ikh | n.in | dead, inanimate object, ostracized person
 tippakh | ti:pakh | n.an | strength, victory, indomitable
+tokiipih | to:gih oki:pih | v | catch
 toggih | to:gih | n.an | grip, fist, tools, weapons
 tokko | to:ko | n.an | allowed, a gift received, permission
 toogih | to:gih | v | hold, possess, pick up, keep
@@ -421,3 +408,4 @@ mark | etymology | verb form | gloss
 |/table
 
 The double and triple passive indicate the verb takes two or three less arguments respectively.
+
