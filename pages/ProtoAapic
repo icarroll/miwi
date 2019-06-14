@@ -45,8 +45,9 @@ Examples:
 * a pittoh ik-oki-apiitah
 
 * I try to get him to step on the goblin.
-* 1HU 3HU scary beast AD-walk-IRR aim
-* a o opobo tokkig AD-?-
+* 1HU 3HU scrawny-monster AD-walk-IRR aim
+* a o ik-opoptokki otko-dioota-khai hapoota
+* I attempt that he may walk on the scrawny monster.
 
 * Oje carved the arrow’s fine point.
 
@@ -197,6 +198,7 @@ dioota | dio:ta | v | walk, go
 giita | gi:ta | v | help, assist, cooperate, lift, hold
 gitadioota | gi:ta dio:ta | v | run, hurry
 gitta | gi:ta | n.hu | hand, arm, assistance, helper
+hapoota | hapo:ta | v | aim, attempt
 ibboh | ib:oh | n.in | tabu, forbidden thing or action
 ibooh | ib:oh | v | forbid, ostracize, disown
 igaa | i:ga | v | hide, sneak, trick
@@ -219,6 +221,7 @@ obottik | obo:ti i:ki | n.in | seed, nut, pebble
 okipdaak | oki:pih da:ki | v | spit
 okiptiigi | oki:pih ti:gi | v | shoot an arrow, sling a stone
 okippah| oki:pih a:pah | n.an | news, message
+opoptokki | opobo to:ko ti:gi | n.an | awful creature, monster
 otooko | ot:oko | v | be inclement weather, be angry, yell
 ottoko | ot:oko | n.mo | stormy sky, unpredictable, anger, scary
 paata | pa:ta | v | write, tattoo, make a scar, represent, happen
@@ -375,6 +378,7 @@ ik- | i:ki | reflexive REF | -self
 -khai | ikh:ai | irrealis IRR | perhaps
 kot- | kot:oki | benefactive BEN | for
 oki- | oki:pih | locative LOC | at
+otko- | ot:oko | adessive AD | on
 -pta | pa:ta | double passive 2PASS | takes no S or DO; old IO is new S
 pi- | pipi:ti | comitative COM | along with
 -tikh | t:ikh | triple passive 3PASS | takes no S, DO, or IO
@@ -384,3 +388,4 @@ togh- | to:gih | instrumental INST | by means of
 |/table
 
 The double and triple passive indicate the verb takes two or three less arguments respectively.
+
