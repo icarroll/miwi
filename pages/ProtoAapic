@@ -52,11 +52,13 @@ Examples:
 #### Goblin stepping
 
 * I try to get him to step on the goblin.
-* (?) 1HU 3HU scrawny-monster AD-walk-IRR aim
+* 1HU 3HU scrawny-monster AD-walk-IRR aim
 * a o ik-opoptokki otko-dioota-khai hapoota
 * I attempt that he may walk on the scrawny monster.
 
 * I try to cause him to step on the goblin.
+* 1HU try 3IN-IN.POSS 1HU 3HU scrawny-monster CAU-AD-step-IRR
+* a hapoota 
 
 * I try to force/trick/persuade him to step on the goblin.
 
@@ -422,5 +424,6 @@ mark | etymology | verb form | gloss
 |/table
 
 The double and triple passive indicate the verb takes two or three less arguments respectively.
+
 
 
