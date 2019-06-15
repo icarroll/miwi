@@ -57,10 +57,14 @@ Examples:
 * I attempt that he may walk on the scrawny monster.
 
 * I try to cause him to step on the goblin.
-* 1HU try 3IN-IN.POSS 1HU 3HU scrawny-monster CAU-AD-step-IRR
-* a hapoota 
+* 1HU try 3IN-AL.POSS 1HU 3HU scrawny-monster CAU-AD-walk-IRR
+* a hapoota tibik a o ik-opoptokki da-otko-dioota-khai
+* I attempt therefore I may cause that he walk on the scrawny monster.
 
 * I try to force/trick/persuade him to step on the goblin.
+* 1HU 3HU force/trick/persuade-PASS try 3IN-AL.POSS 3HU scrawny-monster AD-walk-IRR
+* a o FORCE/TRICK/PERSUADE-ogh hapoota tibik o ik-opoptokki otko-dioota-khai
+* I attempt he is forced/tricked/persuaded therefore he may walk on the scrawny monster 
 
 * I beg/dare him to step on the goblin.
 
@@ -71,6 +75,8 @@ Examples:
 * a-ti hapotta o ik-opoptokki otko-dioota-khai iiki
 
 * Hopefully I am making him step on the goblin.
+* 
+* I hope because I may cause that he walk on the scrawny monster.
 
 #### Other sentences
 
@@ -424,6 +430,7 @@ mark | etymology | verb form | gloss
 |/table
 
 The double and triple passive indicate the verb takes two or three less arguments respectively.
+
 
 
 
