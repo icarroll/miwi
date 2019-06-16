@@ -200,7 +200,6 @@ to:ko | receive, allowed
 * only
 * near
 * area
-* **demonstratives**
 
 |table
 Aapic | etymology | part of speech | gloss
@@ -432,8 +431,17 @@ mark | etymology | verb form | gloss
 
 The double and triple passive indicate the verb takes two or three less arguments respectively.
 
+---
 
+## Correlatives
 
-
-
-
+|table
+ | interrogative | proximal | medial | distal
+- | - | -
+determiner | ? "which" | ? "this" | ? "that" | ? "yon"
+mother | 
+human | "who" | 
+animate | 
+inanimate | "what" | 
+location | "where" | "here" | "there" | "yond"
+|/table
