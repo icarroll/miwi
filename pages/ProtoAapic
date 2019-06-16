@@ -89,6 +89,7 @@ Examples:
 * I washed John’s feet, they looked dirty.
 
 * He didn’t hear clearly what he said, and so didn’t know this secret word.
+* 3HU REL.IN said-PASS clear hear-NEG 3IN-AL.POSS 3HU PROX.IN hidden word know.NEG
 
 ---
 
@@ -98,6 +99,7 @@ Examples:
 root | gloss
 - | - | -
 a:bih | hear, sound
+ao:di | allow, blue
 a:pah | speak, speech
 ap:itah | see, eye
 ak:a | do, action
@@ -436,12 +438,13 @@ The double and triple passive indicate the verb takes two or three less argument
 ## Correlatives
 
 |table
- | interrogative | proximal | medial | distal
+ | interrogative | proximal | medial | distal | relative
 - | - | -
-determiner | ikhapti | apti | ipti | opti
-mother | ikhabba | abba | ibba | obba
-human | ikhapat | apat | ipat | opat
-animate | ikhabi | atog | itog | otog
-inanimate | ikhtikh | atikh | itikh | otokh
-location | ikhabik | abik | ibik | obik
+determiner | ikhapti | apti | ipti | opti | 
+mother | ikhabba | abba | ibba | obba | 
+human | ikhapat | apat | ipat | opat | 
+animate | ikhabi | atog | itog | otog | 
+inanimate | ikhtikh | atikh | itikh | otokh | 
+location | ikhabik | abik | ibik | obik | 
 |/table
+
