@@ -438,10 +438,10 @@ The double and triple passive indicate the verb takes two or three less argument
 |table
  | interrogative | proximal | medial | distal
 - | - | -
-determiner | ? "which" | ? "this" | ? "that" | ? "yon"
-mother | 
-human | "who" | 
-animate | 
-inanimate | "what" | 
-location | "where" | "here" | "there" | "yond"
+determiner | ikhapti | apti | ipti | opti
+mother | ikhabba | abba | ibba | obba
+human | ikhapat | apat | ipat | opat
+animate | ikhabi | atog | itog | otog
+inanimate | ikhtikh | atikh | itikh | otokh
+location | ikhabik | abik | ibik | obik
 |/table
