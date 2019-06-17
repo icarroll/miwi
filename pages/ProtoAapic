@@ -115,6 +115,7 @@ bo:ki | enter, inside
 da:ki | eat, shareable food
 d:ap | cause, reason
 dio:ta | walk, leg
+gio:ba | oscillate, leaf
 gi:ta | help, hand/arm
 ha:kh | illness, disease
 hapo:ta | aim, goal
@@ -159,7 +160,6 @@ to:ko | receive, allowed
 * bird
 * flower
 * fruit
-* leaf
 * calm
 * sad
 * happy
@@ -190,7 +190,6 @@ to:ko | receive, allowed
 * dance
 * story
 * sing
-* knife
 * bow
 * arrow
 * spear
@@ -240,6 +239,8 @@ ibboh | ib:oh | n.in | tabu, forbidden thing or action
 ibooh | ib:oh | v | forbid, ostracize, disown
 igaa | i:ga | v | hide, sneak, trick
 igga | i:ga | n.an | hidden, hider, trickster, egg
+ihokka | ihok:a | n.in | spear
+ihokkik | ihok:a i:ki | n.in | knife
 iiki | i:ki | v | shrink, lack, decrease, be insufficient
 ikki | i:ki | n.in | smallness, insufficiency, hunger, empty
 itaabih | i:ti a:bih | v | to name, to call by name
@@ -452,6 +453,7 @@ animate | ikhabi | atog | itog | otog |
 inanimate | ikhtikh | atikh | itikh | otokh | 
 location | ikhabik | abik | ibik | obik | 
 |/table
+
 
 
 
