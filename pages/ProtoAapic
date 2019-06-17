@@ -93,7 +93,7 @@ Examples:
 
 * The journey of a thousand miles begins with one step.
 * 3 month owned_by one travel one footstep INST-begin
-* itidi ? toobtikh iti ? iti ? togh-?
+* itidi poipabbat toobtikh iti pokdiotta iti diottik togh-kiitia
 
 ---
 
@@ -129,6 +129,7 @@ k:agh | break, rubbish
 kak:it | contend, conflict
 kha:kat | harm, dangerous
 khi:ka | oppose, obstacle
+ki:tia | begin, early
 kit:ik | burn, fire
 kot:oki | give, gift
 obo:ti | roll, round
@@ -138,6 +139,7 @@ ot:oko | inclement weather, storm
 pa:ta | write, symbol
 pipi:ti | be like, similarity
 pi:toh | wash, water
+poipa:bat | recur, moon/month
 pok:odi | grow, largeness
 ta:ka | burrow, deep
 ti:gi | hunt, meat
@@ -231,6 +233,8 @@ dakki | da:ki | n.in | non-meat food, communal meal
 daptippakh | d:ap ti:pakh | n.hu | father, parent's brother
 ddap | d:ap | n.in | reason, requirement, obligation
 dioota | dio:ta | v | walk, go
+diootik | dio:ta i:ki | v | step
+diottik | dio:ta i:ki | n.an | footstep, footprint
 giita | gi:ta | v | help, assist, cooperate, lift, hold
 gitadioota | gi:ta dio:ta | v | run, hurry
 gitta | gi:ta | n.hu | hand, arm, assistance, helper
@@ -273,6 +277,7 @@ pipiiti | pipi:ti | v | be similar, approximate, emulate, learn from
 pipitti | pipi:ti | n.an/.hu | similarity, representation, student
 piitoh | pi:toh | v | wash, clean, rinse, soak, bathe, swim
 pittoh | pi:toh | n.in | water, body of water, wet
+pokdiotta | pok:odi dio:ta | n.an | journey
 pokkodi | pok:odi | n.in | largeness, sufficiency, plenty, full
 pokobba | pok:odi b:a | n.mo | great mother, leader of the mothers
 pokoodi | pok:odi | v | grow, increase, be enough, abound
@@ -453,6 +458,7 @@ animate | ikhabi | atog | itog | otog |
 inanimate | ikhtikh | atikh | itikh | otokh | 
 location | ikhabik | abik | ibik | obik | 
 |/table
+
 
 
 
