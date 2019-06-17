@@ -91,6 +91,10 @@ Examples:
 * He didn’t hear clearly what he said, and so didn’t know this secret word.
 * 3HU REL.IN said-PASS clear hear-NEG 3IN-AL.POSS 3HU PROX.IN hidden word know.NEG
 
+* The journey of a thousand miles begins with one step.
+* 3 month owned_by one travel one footstep INST-begin
+* itidi ? toobtikh iti ? iti ? togh-?
+
 ---
 
 ## Roots
@@ -448,5 +452,6 @@ animate | ikhabi | atog | itog | otog |
 inanimate | ikhtikh | atikh | itikh | otokh | 
 location | ikhabik | abik | ibik | obik | 
 |/table
+
 
 
