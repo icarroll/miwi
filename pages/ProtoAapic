@@ -93,7 +93,7 @@ Examples:
 
 * The journey of a thousand miles begins with one step.
 * 3 month owned_by one travel one footstep INST-begin
-* itidi poipabbat toobtikh iti pokdiotta iti diottik togh-kiitia
+* itidi poipabbat tooptikh iti pokdiotta iti diottik togh-kiitia
 
 ---
 
@@ -359,7 +359,7 @@ inv. poss| mother | human | animate | inanimate
 - | - | -
 1st | tookh aa | tookh a | - | -
 2nd | tookh ii | tookh i | tookh abi | -
-3rd | tookh oo | tookh o | tookh aka | toobtikh
+3rd | tookh oo | tookh o | tookh aka | tooptikh
 |/table
 
 With normal possession, the possessed object is the head of the NP. With inverse possession, the possessor is the head of the NP. The ownership relation remains the same.
@@ -458,6 +458,7 @@ animate | ikhabi | atog | itog | otog |
 inanimate | ikhtikh | atikh | itikh | otokh | 
 location | ikhabik | abik | ibik | obik | 
 |/table
+
 
 
 
