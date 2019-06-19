@@ -1,6 +1,24 @@
 <html>
 <head>
   <title>{{spaced_wikiword}} - MiWi</title>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 8px;
+    }
+
+    th + th, td + td {
+      border-left: 1px solid black;
+    }
+
+    td {
+      border-top: 1px solid lightgrey;
+    }
+  </style>
 </head>
 <body>
   <form method="get" action="/edit/{{wikiword}}">
@@ -9,8 +27,6 @@
     {{spaced_wikiword}}
     </h1>
   </form>
-  <div style="max-width:500;">
-{{{text}}}
-  </div>
+  <div style="max-width:500;">{{{text}}}</div>
 </body>
 </html>
