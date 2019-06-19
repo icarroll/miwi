@@ -58,7 +58,8 @@ public:
   static bool
   IsStartingLine(const std::string& line)
   {
-    static std::string matchString("|table>");
+    //XXXstatic std::string matchString("|table>");
+    static std::string matchString("|table");
     return line == matchString;
   }
 
@@ -74,7 +75,8 @@ public:
   void
   AddLine(std::string& line) override
   {
-    if (!this->isStarted && line == "|table>")
+    //XXXif (!this->isStarted && line == "|table>")
+    if (!this->isStarted && line == "|table")
     {
       this->isStarted = true;
       return;
@@ -89,7 +91,8 @@ public:
         return;
       }
 
-      if (line == "|<table")
+      //XXXif (line == "|<table")
+      if (line == "|/table")
       {
         static std::string emptyLine = "";
         this->parseBlock(emptyLine);
