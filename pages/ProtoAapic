@@ -377,8 +377,8 @@ iti | one | "self"
 iddi | two | "self self"
 itidi | three | "one two"
 gita | 2-7 / many | "hand"
-gitati | 6-8 | "hand two"
-itgita | 8-14 | "two hand"
+gitadi | 6-8 | "hand two"
+idgita | 8-14 | "two hand"
 gitakta | 12+ / lots | "hand hand"
 |/table
 
@@ -460,3 +460,4 @@ animate | ikhabi | atog | itog | otog |
 inanimate | ikhtikh | atikh | itikh | otokh | 
 location | ikhabik | abik | ibik | obik | 
 |/table
+
