@@ -45,6 +45,10 @@ Examples:
 * 1HU water REF-LOC-see
 * a pittoh ik-bik-apiitah
 
+* The person who gave me food is over there.
+* DIST.HU 3.HU 1.HU food give DIST.LOC remain
+* opat o a dakki kotooki obiik
+
 ---
 
 ### Grammar workshop
@@ -460,4 +464,5 @@ animate | ikhabi | atog | itog | otog |
 inanimate | ikhtikh | atikh | itikh | otokh | 
 location | ikhabik | abik | ibik | obik | 
 |/table
+
 
