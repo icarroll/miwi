@@ -437,15 +437,15 @@ togh- | to:gih | instrumental INST | by means of
 |table
 mark | etymology | verb form | gloss
 - | - | -
--ot | bo:daot | optative OPT | wish/hope
 -ap | d:ap | imperative IMP | do
 -ib | ib:oh | prohibitive PROH | do not
--ipk | b:ik | perfective PFV | complete action
 -ikha | khi:ka | negative NEG | does not
+-ipk | b:ik | perfective PFV | complete action
 -khai | ikh:ai | irrealis IRR | perhaps
+-ot | bo:daot | optative OPT | wish/hope
+-ogh | to:gih | passive PASS | takes no S; old DO is new S
 -pta | pa:ta | double passive 2PASS | takes no S or DO; old IO is new S
 -tikh | t:ikh | triple passive 3PASS | takes no S, DO, or IO
--ogh | to:gih | passive PASS | takes no S; old DO is new S
 |/table
 
 The double and triple passive indicate the verb takes two or three less arguments respectively.
@@ -464,3 +464,4 @@ animate | ikhabi | atog | itog | otog
 inanimate | ikhtikh | atikh | itikh | otokh
 location | ikhabik | abik | ibik | obik
 |/table
+
