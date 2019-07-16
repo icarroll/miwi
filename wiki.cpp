@@ -35,7 +35,7 @@ string space_wikiword(string wikiword) {
 
 // turn WikiWords into links, and add html header/footer
 string wikify(string raw_text, string wikiword) {
-    boost::replace_all(raw_text, "&", "&amp;");
+    //boost::replace_all(raw_text, "&", "&amp;");
     boost::replace_all(raw_text, "<", "&lt;");
     boost::replace_all(raw_text, ">", "&gt;");
 
@@ -59,7 +59,7 @@ string wikify(string raw_text, string wikiword) {
 // turn html characters into entities, add edit page header/footer
 string editify(string raw_text, string wikiword) {
     string edit_text = raw_text;
-    boost::replace_all(edit_text, "&", "&amp;");
+    //boost::replace_all(edit_text, "&", "&amp;");
     boost::replace_all(edit_text, "<", "&lt;");
     boost::replace_all(edit_text, ">", "&gt;");
 
