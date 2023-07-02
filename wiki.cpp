@@ -60,7 +60,7 @@ string wikify(string raw_text, string wikiword) {
     ctx["wikiword"] = wikiword;
     ctx["spaced_wikiword"] = spaced_wikiword;
     ctx["text"] = wiki_text;
-    return crow::mustache::load("wiki.html").render(ctx);
+    return crow::mustache::load("wiki.html").render_string(ctx);
 }
 
 // const string EDIT_HEADER = readfile("edit_header.html");
@@ -83,7 +83,7 @@ string editify(string raw_text, string wikiword) {
     ctx["wikiword"] = wikiword;
     ctx["spaced_wikiword"] = spaced_wikiword;
     ctx["text"] = edit_text;
-    return crow::mustache::load("edit.html").render(ctx);
+    return crow::mustache::load("edit.html").render_string(ctx);
 }
 
 string postdecode(string raw_text) {
