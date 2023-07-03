@@ -3073,6 +3073,16 @@ namespace crow
             set_header("Location", location);
         }
 
+        /// Return a "See Other" response.
+
+        ///
+        /// Location can either be a route or a full URL.
+        void see_other(const std::string& location)
+        {
+            code = 303;
+            set_header("Location", location);
+        }
+
         void write(const std::string& body_part)
         {
             body += body_part;

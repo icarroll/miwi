@@ -98,7 +98,7 @@ int main()
 
     CROW_ROUTE(app, "/")([](){
         crow::response resp;
-        resp.redirect("/wiki/HomePage");
+        resp.see_other("/wiki/HomePage");
         return resp;
     });
 
@@ -112,7 +112,7 @@ int main()
             return resp;
         }
         catch (const runtime_error & e) {
-            resp.redirect("/edit/" + wikiword);
+            resp.see_other("/edit/" + wikiword);
             return resp;
         }
     });
@@ -142,7 +142,7 @@ int main()
         writefile("pages/" + wikiword, text);
 
         crow::response resp;
-        resp.redirect("/wiki/" + wikiword);
+        resp.see_other("/wiki/" + wikiword);
         return resp;
     });
 
